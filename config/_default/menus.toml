@@ -5,22 +5,22 @@
 
 [[main]]
   name = "Home"
-  url = "#about"
+  url = "#vision"
   weight = 10
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Protect"
+  url = "#protect"
   weight = 20
 
 [[main]]
-  name = "Projects"
+  name = "Showcase"
   url = "#projects"
   weight = 30
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
+  name = "Wiki"
+  url = "https://github.com/dickansj/ppe-solutions/wiki"
   weight = 40
 
 [[main]]
