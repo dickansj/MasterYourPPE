@@ -35,7 +35,7 @@
   
 [[main_right]]
   url = "https://www.twitter.com"
-  pre = "<i class="fab fa-twitter"></i>"
+  pre = "<i class='fab fa-twitter'></i>"
   weight = 80
 
 # Link to a PDF of your resume/CV from the menu.
