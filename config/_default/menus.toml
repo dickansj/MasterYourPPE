@@ -29,8 +29,10 @@
   weight = 60
   
 [[main_right]]
-  name = "testing"
-  url = "https://github.com/dickansj/ppe-solutions"
+  url = "https://github.com/dickansj/ppe-solutions/wiki"
+  label = "Wiki"
+  icon_pack = "fab"
+  icon = "github"
   weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
