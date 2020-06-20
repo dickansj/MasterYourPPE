@@ -12,15 +12,5 @@ view: 4
 header:
   caption: ""
   image: ""
-
-links:
-  - icon_pack: fab
-    icon: github
-    name: Designs
-    url: 'https://github.com/dickansj/ppe-solutions'
-  - icon_pack: fab
-    icon: twitter
-    name: Folloe
-    url: 'https://www.twitter.com'
     
 ---
