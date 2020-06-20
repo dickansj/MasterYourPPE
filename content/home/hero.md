@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Protect Yourself and Others"
+title = "Designed to Protect"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "hero-academic.png"
@@ -38,9 +38,9 @@ hero_media = "hero-academic.png"
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "https://github.com/dickansj/ppe-solutions/wiki/Better-Protection-for-Everyone"
-  label = "Documentation"
+  label = "Step-by-step Guide"
   icon_pack = "fas"
-  icon = "book-open"
+  icon = "list-ol"
 
 
 [cta_alt]
@@ -52,7 +52,7 @@ hero_media = "hero-academic.png"
 ##   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-**Create a simple wireframe to make your mask a much more effective safeguard**
+**Create a simple wireframe to make your mask a more effective safeguard for you and others**
 
 Learn how in this **1-minute video**
 
