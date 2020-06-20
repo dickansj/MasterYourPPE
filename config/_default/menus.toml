@@ -28,11 +28,10 @@
   url = "#contact"
   weight = 60
   
-[[cta_right]]
-  url = "https://github.com/dickansj/ppe-solutions/wiki"
-  label = "Wiki"
-  icon_pack = "fab"
-  icon = "github"
+[[main_right]]
+  name = "ghub"
+  url = "https://github.com/dickansj/ppe-solutions/"
+  pre = "<i class='fab fa-github'></i>"
   weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
