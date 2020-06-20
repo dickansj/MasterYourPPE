@@ -42,9 +42,9 @@ hero_media = "hero-academic.png"
   icon_pack = "fas"
   icon = "book-open"
   
-##[cta_alt]
-##  url = "https://sourcethemes.com/academic/"
-##  label = "View Documentation"
+[cta_alt]
+  url = "https://github.com/dickansj/ppe-solutions/wiki/"
+  label = "Share your results with #ppeforall"
 
 # Note. An optional note to show underneath the links.
 ## [cta_note]
@@ -55,4 +55,6 @@ hero_media = "hero-academic.png"
 
 Learn how in this **1-minute video**
 
+<!--
 <span style="text-shadow: none;"><a class="github-button" href="https://github.com/dickansj/ppe-solutions" data-icon="octicon-star" data-size="large" data-show-count="false" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
+-->
