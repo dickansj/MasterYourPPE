@@ -45,7 +45,7 @@ hero_media = "hero-academic.png"
 <br>
 [cta_alt]
   url = "https://github.com/dickansj/ppe-solutions/wiki/"
-  label = "Share results with <b>#ppeforall</b>"
+  label = "Share results with #ppeforall"
 
 # Note. An optional note to show underneath the links.
 ## [cta_note]
