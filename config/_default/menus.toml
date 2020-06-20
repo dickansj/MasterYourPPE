@@ -9,13 +9,13 @@
   weight = 10
 
 [[main]]
-  name = "Protect"
-  url = "#protect"
+  name = "Vision"
+  url = "#vision"
   weight = 20
 
 [[main]]
   name = "Showcase"
-  url = "#projects"
+  url = "#showcase"
   weight = 30
 
 [[main]]
@@ -28,7 +28,7 @@
   url = "#contact"
   weight = 60
   
-[[buttons]]
+[[main_right]]
   icon_pack = "fab"
   icon = "github"
   url = "https://github.com/dickansj/ppe-solutions"
