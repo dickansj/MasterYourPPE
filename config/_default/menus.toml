@@ -19,17 +19,18 @@
   weight = 30
 
 [[main]]
-  name = "Wiki"
-  url = "https://github.com/dickansj/ppe-solutions/wiki"
+  name = "Updates"
+  url = "#updates"
   weight = 40
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 50
   
 [[main_right]]
-  url = "https://github.com/dickansj/ppe-solutions/"
+  name = " Wiki"
+  url = "https://github.com/dickansj/ppe-solutions/wiki"
   pre = "<i class='fab fa-github'></i>"
   weight = 80
   
