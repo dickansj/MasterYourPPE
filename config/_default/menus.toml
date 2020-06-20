@@ -28,7 +28,7 @@
   url = "#contact"
   weight = 60
   
-[[main_right]]
+[[cta_right]]
   url = "https://github.com/dickansj/ppe-solutions/wiki"
   label = "Wiki"
   icon_pack = "fab"
