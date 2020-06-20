@@ -29,8 +29,7 @@
   weight = 60
   
 [[main_right]]
-  icon_pack = "fab"
-  icon = "github"
+  name = "testing"
   url = "https://github.com/dickansj/ppe-solutions"
   weight = 70
 
