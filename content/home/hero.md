@@ -41,7 +41,8 @@ hero_media = "hero-academic.png"
   label = "Documentation"
   icon_pack = "fas"
   icon = "book-open"
-  
+
+<br>
 [cta_alt]
   url = "https://github.com/dickansj/ppe-solutions/wiki/"
   label = "Share results with #ppeforall"
