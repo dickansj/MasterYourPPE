@@ -15,25 +15,25 @@ subtitle = "As we begin to transition from sheltering in place to the gradual re
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "globe"
   icon_pack = "fab"
   name = "We are driven by a focus on maintaining empathy, simplicity, sustainability, and accessibility in our solutions."
   # description = "90%"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "cogs"
   icon_pack = "fas"
   name = "Our goal is to take our PPE design through the whole development and iteration process before broadly distributing the idea."
   # description = "100%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "universal-access"
   icon_pack = "fas"
   name = "Our solutions should be accessible to everyone in our communities, including marginalized and under-resourced groups, and essential workers."
   # description = "10%"
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "user-md"
   icon_pack = "fas"
   name = "We plan to collaborate with medical professionals to design the most effective homemade PPE we can, and to spread high-quality information to our community."
   # description = "10%"
