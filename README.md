@@ -12,7 +12,7 @@
 - Our goal is to take our PPE design through the whole development and iteration process before broadly distributing the idea.
 - Our solutions should be accessible to everyone in our communities, including marginalized and under-resourced groups, and essential workers.
 - We plan to collaborate with medical professionals to design the most effective homemade PPE we can, and to spread high-quality information to our community.
-- We hope that our work can serve as a framework for others to use and build upon during glabal health crises now and in the future.
+- We hope that our work can serve as a framework for others to use and build upon during global health crises now and in the future.
 
 ## Getting Started
 Visit our [wiki](https://github.com/dickansj/ppe-solutions/wiki) to see our array of PPE solutions and resources for healthcare workers and the general public.

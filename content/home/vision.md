@@ -39,9 +39,9 @@ subtitle = "As we begin to transition from sheltering in place to the gradual re
   # description = "10%"
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "dna"
   icon_pack = "fas"
-  name = "We hope that our work can serve as a framework for others to use and build upon during glabal health crises now and in the future."
+  name = "We hope that our work can serve as a framework for others to use and build upon during global health crises now and in the future."
   # description = "10%"
     
 # Uncomment to use emoji icons.
