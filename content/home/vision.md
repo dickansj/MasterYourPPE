@@ -4,6 +4,7 @@ widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
+align = "center"
 
 title = "Vision"
 subtitle = "As we begin to transition from sheltering in place to the gradual reopening of businesses and public spaces, we aim to develop and distribute **easily scalable PPE designs** and simple safe-usage guidelines for the public in order to **protect and educate** the community."
