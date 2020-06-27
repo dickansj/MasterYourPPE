@@ -23,15 +23,27 @@ subtitle = "As we begin to transition from sheltering in place to the gradual re
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Our goal is to take our PPE design through the whole development and iteration process before broadly distributing the idea."
+  # description = "100%"  
   
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
-
+  name = "Our solutions should be accessible to everyone in our communities, including marginalized and under-resourced groups, and essential workers."
+  # description = "10%"
+  
+[[feature]]
+  icon = "camera-retro"
+  icon_pack = "fas"
+  name = "We plan to collaborate with medical professionals to design the most effective homemade PPE we can, and to spread high-quality information to our community."
+  # description = "10%"
+  
+[[feature]]
+  icon = "camera-retro"
+  icon_pack = "fas"
+  name = "We hope that our work can serve as a framework for others to use and build upon during glabal health crises now and in the future."
+  # description = "10%"
+    
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
