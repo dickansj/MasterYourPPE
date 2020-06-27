@@ -17,8 +17,8 @@ subtitle = "As we begin to transition from sheltering in place to the gradual re
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "We are driven by a focus on maintaining empathy, simplicity, sustainability, and accessibility in our solutions."
+  # description = "90%"
   
 [[feature]]
   icon = "chart-line"
