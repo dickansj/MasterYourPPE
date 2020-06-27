@@ -3,7 +3,7 @@
 
 > :large_blue_diamond: This is a demo/initial testing repository for a design project aimed at developing and sharing solutions for better personal protective equipment (PPE) It is built using the [Academic theme](https://sourcethemes.com/academic/) for [Hugo](https://gohugo.io/) and deployed on [Netlify](https://www.netlify.com/).
 > 
-> Current URL: https://ppe-solutions.netlify.app/
+> Current URL: https://masteryourppe.netlify.app/
 
 ## Our Vision
 *As we begin to transition from sheltering in place to the gradual reopening of businesses and public spaces, we aim to develop and distribute **easily scalable PPE designs** and simple safe-usage guidelines for the public in order to **protect and educate** the community.*
