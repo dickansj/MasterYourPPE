@@ -24,7 +24,7 @@ subtitle = "As we begin to transition from sheltering in place to the gradual re
 [[feature]]
   icon = "cogs"
   icon_pack = "fas"
-  name = "Our goal is to take our PPE design through the whole development and iteration process before broadly distributing the idea."
+  name = "Our goal is to take our PPE designs through the development and iteration process before broadly distributing the ideas."
   # description = "100%"  
   
 [[feature]]
