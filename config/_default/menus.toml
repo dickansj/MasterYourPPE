@@ -27,13 +27,13 @@
   name = "Contact"
   url = "#contact"
   weight = 50
-  
+
 [[main_right]]
   name = "&nbsp; Wiki"
-  url = "https://github.com/dickansj/ppe-solutions/wiki"
+  url = "https://github.com/dickansj/MasterYourPPE/wiki"
   pre = "<i class='fab fa-github'></i>"
   weight = 80
-  
+
 ## [[main_right]]
 ##  url = "https://www.twitter.com"
 ##  pre = "<i class='fab fa-twitter'></i>"
