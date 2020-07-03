@@ -1,5 +1,5 @@
 # Master Your PPE
----
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dickansj/MasterYourPPE/issues)
 
 > :large_blue_diamond: This repository contains resources for [MasterYourPPE](https://MasterYourPPE.com/), a design project aimed at developing and sharing solutions for better personal protective equipment (PPE). It is built using the [Academic theme](https://sourcethemes.com/academic/) for [Hugo](https://gohugo.io/) and deployed on [Netlify](https://www.netlify.com/).
 
