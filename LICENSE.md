@@ -1,6 +1,7 @@
 MIT License
 
 Copyright (c) 2020 Master Your PPE contributors: Content, Hardware Designs, and Associated Documentation
+
 Copyright (c) 2016-present George Cushen: Hugo Academic Theme
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
