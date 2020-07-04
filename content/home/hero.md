@@ -57,7 +57,7 @@ hero_media = "hero-academic.png"
 
 Learn how in this **1-minute video**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KZgRVWYM7rY" align="right" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KZgRVWYM7rY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--
 <span style="text-shadow: none;"><a class="github-button" href="https://github.com/dickansj/ppe-solutions" data-icon="octicon-star" data-size="large" data-show-count="false" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
