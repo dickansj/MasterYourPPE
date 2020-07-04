@@ -1,3 +1,5 @@
+![Master Your PPE favicon](https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/icon.png)
+
 # Master Your PPE
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dickansj/MasterYourPPE/issues) [![Netlify Status](https://api.netlify.com/api/v1/badges/1a542d0d-b04b-4aba-8f0d-5785aba0d5b9/deploy-status)](https://app.netlify.com/sites/masteryourppe/deploys)
 
