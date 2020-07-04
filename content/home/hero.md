@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Master Your PPE to keep yourself and those around you healthy."
+title = "Master Your PPE"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "hero-academic.png"
@@ -52,7 +52,7 @@ hero_media = "hero-academic.png"
 ## [cta_note]
 ##   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
-
+to keep yourself and those around you healthy.
 
 
 Learn how in this **1-minute video**
