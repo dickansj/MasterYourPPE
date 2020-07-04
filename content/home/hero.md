@@ -55,9 +55,16 @@ hero_media = "hero-academic.png"
 **to keep yourself and those around you healthy.**
 
 
-Learn how in this **1-minute video**
+<div class="container">
+  <div class="row">
+    <div class="col">
+      Learn how in this **1-minute video**
+    </div>
+    <div class="col">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/KZgRVWYM7rY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KZgRVWYM7rY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 <!--
 <span style="text-shadow: none;"><a class="github-button" href="https://github.com/dickansj/ppe-solutions" data-icon="octicon-star" data-size="large" data-show-count="false" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
