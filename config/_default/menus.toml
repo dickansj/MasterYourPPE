@@ -13,15 +13,21 @@
   url = "#vision"
   weight = 20
 
-[[main]]
-  name = "Showcase"
-  url = "#showcase"
-  weight = 30
+## [[main]]
+##   name = "Showcase"
+##   url = "#showcase"
+##   weight = 30
+
+## [[main]]
+##   name = "Updates"
+##   url = "#updates"
+##   weight = 40
 
 [[main]]
-  name = "Updates"
-  url = "#updates"
-  weight = 40
+  name = "Team"
+  url = "#team"
+  weight = 45
+
 
 [[main]]
   name = "Contact"
