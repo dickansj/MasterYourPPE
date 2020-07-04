@@ -7,7 +7,7 @@ weight = 30  # Order that this section will appear.
 align = "center"
 
 title = "Vision"
-subtitle = "To develop and distribute **easily scalable PPE designs** and simple safe-usage guidelines for the public in order to **protect and educate** the community"
+subtitle = "To develop and distribute **easily scalable PPE designs** and simple safe-usage guidelines for the public in order to **protect and educate** the community."
 
 # Showcase personal skills or business features.
 # 
