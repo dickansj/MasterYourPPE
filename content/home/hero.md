@@ -57,7 +57,7 @@ hero_media = "hero-academic.png"
 <div class="container-fluid">
   <div class="row padding">
     <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
-      <h1 class="display-4">Learn how in this 1-minute video</h1>
+      <p class="lead">Learn how in this 1-minute video</p>
     </div>
     <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
       <iframe width="100%" height="315" src="https://www.youtube.com/embed/KZgRVWYM7rY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
