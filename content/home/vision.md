@@ -63,4 +63,3 @@ subtitle = "To develop and distribute **easily scalable PPE designs** and simple
 
 +++
 
-<p align="center"> </p>
