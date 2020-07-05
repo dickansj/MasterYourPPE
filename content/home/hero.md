@@ -56,7 +56,7 @@ hero_media = "hero-academic.png"
 
  Learn how in this **1-minute video**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KZgRVWYM7rY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/KZgRVWYM7rY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
