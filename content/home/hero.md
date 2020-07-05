@@ -54,7 +54,7 @@ hero_media = "hero-academic.png"
 +++
 **to keep yourself and those around you healthy.**
 
-<p class="lead">Learn how in this <b>1-minute video</b></p>
+Learn how in this **1-minute video**
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/KZgRVWYM7rY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
