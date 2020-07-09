@@ -6,7 +6,7 @@
 > This repository contains resources for [MasterYourPPE](https://MasterYourPPE.com/), a design project aimed at developing and sharing simple, scalable solutions for better personal protective equipment (PPE). It is built using the [Academic theme](https://sourcethemes.com/academic/) for [Hugo](https://gohugo.io/) and deployed on [Netlify](https://www.netlify.com/).
 
 ## Our Vision
-*As we begin to transition from sheltering in place to the gradual reopening of businesses and public spaces, we aim to develop and distribute **easily scalable PPE designs** and simple safe-usage guidelines for the public in order to **protect and educate** the community.*
+*To develop and distribute **easily scalable PPE designs** and simple safe-usage guidelines for the public in order to **protect and educate** the community.*
 
 - We are driven by a focus on maintaining empathy, simplicity, sustainability, and accessibility in our solutions.
 - Our goal is to take our PPE designs through the development and iteration process before broadly distributing the ideas.
