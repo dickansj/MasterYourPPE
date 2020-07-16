@@ -54,7 +54,7 @@ subtitle = ""
     </div>
   </div>
   <div class="row align-items-center">
-    <div class="col-xs-12 col-sm-3 col-md-3 col-lg-2 col-xl-2 px-4 my-4">
+    <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3 col-xl-3 px-4 my-4">
       <img class="img-responsive" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/team/Dickan_8328.jpg?raw=true" alt="Joseph Dickan">
     </div>
     <div class=" col-xs-12 col-sm-9 col-md-9 col-lg-10 col-xl-10 px-4 my-4">
