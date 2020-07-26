@@ -61,6 +61,9 @@ subtitle = ""
     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
       <ul>
         <li><a href="https://www.cnn.com/2020/06/19/us/states-face-mask-coronavirus-trnd/index.html" target="_blank">Face Mask Requirements by State</a></li>
+        <li><a href="https://coronavirus.jhu.edu/" target="_blank">Johns Hopkins Coronavirus Resource Center</a></li>
+        <li><a href="https://covidtracking.com/" target="_blank">The COVID Tracking Project</a></li>
+        <li><a href="https://tools.cdc.gov/medialibrary/index.aspx#/media/id/403277" target+"_blank">CDC Media Library - Coronavirus Communication Resources & Guidance</a></li>
       </ul>
     </div>
   </div>
