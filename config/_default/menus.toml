@@ -27,6 +27,26 @@
    name = "Resources"
    url = "/trusted-resources"
    weight = 60
+  
+ [[main]]
+   name = "Hey, wear your PPE!"
+   url = "#top-main"
+   weight = 70
+
+ [[main]]
+   name = "Why?"
+   url = "#top-why"
+   weight = 80
+
+ [[main]]
+   name = "Wait, how serious is this?"
+   url = "#top-main"
+   weight = 90
+
+ [[main]]
+   name = "What is really going on?"
+   url = "#top-main"
+   weight = 100
 
 ## [[main]]
 ##   name = "Updates"
@@ -38,13 +58,13 @@
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 70
+  weight = 110
 
 [[main_right]]
   name = "&nbsp; Wiki"
   url = "https://github.com/dickansj/MasterYourPPE/wiki"
   pre = "<i class='fab fa-github'></i>"
-  weight = 80
+  weight = 120
 
 ## [[main_right]]
 ##  url = "https://www.twitter.com"
