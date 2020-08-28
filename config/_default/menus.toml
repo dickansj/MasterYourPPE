@@ -5,66 +5,48 @@
 
 [[main]]
   name = "Master Your PPE"
-  url = "#top"
+  url = "#why"
   weight = 10
 
+
 [[main]]
-  name = "Vision"
-  url = "#vision"
+  name = "What You Can Do"
+  url = "/action"
   weight = 20
 
+[[main]]
+  name = "Tips & Tricks"
+  url = "/tips"
+  weight = 30
+
  [[main]]
-   name = "Team"
-   url = "/team"
+   name = "New & Science"
+   url = /news"
    weight = 40
 
  [[main]]
-   name = "Filter Testing"
-   url = "#testing"
+   name = "About Us"
+   url = "/team"
    weight = 50
 
- [[main]]
-   name = "Resources"
-   url = "/trusted-resources"
-   weight = 60
-  
- [[main]]
-   name = "Hey, wear your PPE!"
-   url = "#top-main"
-   weight = 70
+## [[main]]
+##   name = "Resources"
+##   url = "/trusted-resources"
+##   weight = 60
 
- [[main]]
-   name = "Why?"
-   url = "#top-why"
-   weight = 80
 
- [[main]]
-   name = "Wait, how serious is this?"
-   url = "#top-main"
-   weight = 90
 
- [[main]]
-   name = "What is really going on?"
-   url = "#top-main"
-   weight = 100
 
 ## [[main]]
-##   name = "Updates"
-##   url = "#updates"
-##   weight = 65
-
-
-
-[[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 110
+##   name = "Contact"
+##   url = "#contact"
+##   weight = 70
 
 [[main_right]]
   name = "&nbsp; Wiki"
   url = "https://github.com/dickansj/MasterYourPPE/wiki"
   pre = "<i class='fab fa-github'></i>"
-  weight = 120
+  weight = 80
 
 ## [[main_right]]
 ##  url = "https://www.twitter.com"
