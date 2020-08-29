@@ -65,7 +65,7 @@ subtitle = ""
     </div>
   <div class="row">
     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
-      <p class="text-left">Because we all have to do our part to protect each other. Covid-19 is still here and it’s still dangerous to you and to those you care about. And because we all want Covid-19 to go away so we can get back to everything we love to do.</p>
+      <p class="text-left">Because we all have to do our part to protect each other. <a href="https://www.cdc.gov/coronavirus/2019-ncov/index.html" target="_blank">Covid-19</a> is still here and it’s still dangerous to you and to those you care about. And because we all want Covid-19 to go away so we can get back to everything we love to do.</p>
     </div>
   </div> 
   <div class="row mt-4">
@@ -74,7 +74,7 @@ subtitle = ""
     </div>
   <div class="row">
     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
-      <p>Going by the numbers, Covid-19 is roughly two times more contagious than the flu but with a mortality rate that is 10 times higher. It is very real and it poses a serious risk for those with a weakened immune or respiratory system or with other preexisting conditions--and this could be anyone!</p>
+      <p class="text-left">Going by <a href="https://www.businessinsider.com/coronavirus-contagious-r-naught-average-patient-spread-2020-3" target="_blank">the numbers</a>, Covid-19 is roughly two times more contagious than the flu but with a mortality rate that is 10 times higher. It is very real and it poses a serious risk for those with a weakened immune or respiratory system or with other preexisting conditions--and this could be anyone!</p>
     </div>
   </div> 
   <div class="row mt-4">
@@ -83,12 +83,12 @@ subtitle = ""
     </div>
   <div class="row">
     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
-      <p>A good face covering that is worn correctly will substantially reduce the chance of breathing infected airborne droplets or of spreading infectious particles to others.</p>
+      <p class="text-left">A good face covering that is worn correctly will substantially reduce the chance of breathing infected airborne droplets or of spreading infectious particles to others.</p>
     </div>
   </div> 
   <div class="row mt-4">
     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
-      <p>Noting the concentration and persistence of small droplets within enclosed areas, it is very important that everyone wear a good face covering. This is to prevent droplets from accumulating in breathing spaces. And of course, it’s prudent to continue to wash hands often, and to avoid crowds.</p>
+      <p class="text-left">Noting the concentration and persistence of small droplets within enclosed areas, it is very important that everyone wear a good face covering. This is to prevent droplets from accumulating in breathing spaces. And of course, it’s prudent to continue to wash hands often, and to avoid crowds.</p>
     </div>
   </div> 
   <div class="row mt-4">
@@ -97,16 +97,16 @@ subtitle = ""
     </div>
   <div class="row">
     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
-      <p>The latest research confirms that most people become infected with Covid-19 by breathing in contaminated droplets that are ejected when talking, singing, eating, sneezing, coughing, etc.</p>
+      <p class="text-left">The <a href="https://www.nytimes.com/2020/08/11/health/coronavirus-aerosols-indoors.html" target="_blank">latest research</a> confirms that most people become infected with Covid-19 by breathing in contaminated droplets that are ejected when talking, singing, eating, sneezing, coughing, etc.</p>
       <br>
-      <p>Infectious virus particles have been observed in both, large and small droplets. Larger droplets range in size down to 0.5mm. These fall to the ground quickly usually within 6 feet of where they are generated.</p>
+      <p class="text-left">Infectious virus particles have been observed in both, large and small droplets. Larger droplets range in size down to 0.5mm. These fall to the ground quickly usually within 6 feet of where they are generated.</p>
     </div>
   </div> 
   <div class="row">
     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
-      <p>Smaller droplets range in size from about 0.5mm down to 0.001mm and can remain suspended in air for hours.  These can also travel long distances on air currents.  In still air, small droplets can accumulate in the area where they are being generated until the area becomes highly infectious.</p>
+      <p class="text-left">Smaller droplets range in size from about 0.5mm down to 0.001mm and can <a href="https://economictimes.indiatimes.com/news/science/coronavirus-can-travel-up-to-8-metres-from-exhalation-linger-in-air-for-hours-mit-scientist-says/articleshow/74928356.cms?from=mdr" target="_blank">remain suspended in air for hours.</a> These can also travel long distances on air currents.  In still air, small droplets can accumulate in the area where they are being generated until the area becomes highly infectious.</p>
       <br>
-      <p>And, to help lower the risk of Covid-19 transmission further, see these mask-wearing tips and tricks.</p>
+      <p class="text-left">And, to help lower the risk of Covid-19 transmission further, see these mask-wearing <a href="https://www.masteryourppe.com/tips">tips and tricks</a>.</p>
     </div>
   </div> 
 
