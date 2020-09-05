@@ -71,20 +71,17 @@ subtitle = ""
   </div> 
   
   <div class="row mt-4">
-  <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
+  <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
       <h3>What is really going on?</h3>
       <p class="text-left">The <a href="https://www.nytimes.com/2020/08/11/health/coronavirus-aerosols-indoors.html" target="_blank">latest research</a> confirms that most people become infected with Covid-19 by breathing in contaminated droplets that are ejected when talking, singing, eating, sneezing, coughing, etc.</p>
+    <br>
+    <p class="text-left">Infectious virus particles have been observed in both, large and small droplets. Larger droplets range in size down to 0.5mm. These fall to the ground quickly usually within 6 feet of where they are generated.</p>
     </div>
-    <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 col-xl-8">
-      <img class="img-fluid" src="https://i.imgur.com/ZxVItVB.png" alt="How to properly wear a mask">
+    <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
+      <img class="img-fluid" src="https://i.imgur.com/ZxVItVB.png" alt="Mask diagram">
     </div>
     
-  <div class="row">
-    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
-      <br>
-      <p class="text-left">Infectious virus particles have been observed in both, large and small droplets. Larger droplets range in size down to 0.5mm. These fall to the ground quickly usually within 6 feet of where they are generated.</p>
-    </div>
-  </div> 
+
   <div class="row">
     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
       <p class="text-left">Smaller droplets range in size from about 0.5mm down to 0.001mm and can <a href="https://economictimes.indiatimes.com/news/science/coronavirus-can-travel-up-to-8-metres-from-exhalation-linger-in-air-for-hours-mit-scientist-says/articleshow/74928356.cms?from=mdr" target="_blank">remain suspended in air for hours.</a> These can also travel long distances on air currents.  In still air, small droplets can accumulate in the area where they are being generated until the area becomes highly infectious.</p>
