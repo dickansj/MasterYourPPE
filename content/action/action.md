@@ -79,7 +79,7 @@ subtitle = ""
   <div class="row mt-4">
     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
       <p class="text-left"><b>2) Make a Face Shield</b><br>You can make or buy a face shield to wear in conjunction with your face covering for a substantial boost to the effectiveness of just wearing a mask alone.  See our  instructions to making your own face mask.</p>
-      <img class="img-fluid" src="blob:https://imgur.com/d7ddea3a-9b1b-4995-ad36-63eb5ee5bf8d" alt="facemask diagram">
+      <img class="img-fluid" src="https://imgur.com/d7ddea3a-9b1b-4995-ad36-63eb5ee5bf8d" alt="facemask diagram">
     </div>
   </div> 
 
