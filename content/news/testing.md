@@ -72,8 +72,8 @@ subtitle = ""
     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
       <p>We used a Fluke 985 Particle Counter to measure the filtration efficiency of several commercially available masks and respirators and that of other commonly available materials.  The testing apparatus consisted of a 4-inch PVC pipe cap with a 1/2-inch access hole drilled on the side where the particle counter's conical test port was inserted.  Above the access hole, we mounted an adjustable hose clamp to provide a tight seal between the cap and the filter material being tested.  Each material was tested for two minutes and the data was normalized against unfiltered measurements of the room air.  Subsequent testing of the same filter material yielded slightly different counts; however the variation was usually below 0.5% of the initial values.</p>
       <br>
-      <img src="https://imgur.com/ScNqOna">
-      <img src="https://imgur.com/wGjUPlB">                                                      
+      <img class="img-fluid" src="https://imgur.com/ScNqOna" alt="testing1">
+      <img class="img-fluid" src="https://imgur.com/wGjUPlB" alt="testing2">                                                      
       <p>The reader should note that these test results are <b>not</b> scientifically valid.  The results may provide a fair indication of filter efficiency and could be used to compare the performance of filter material types. However, the results do not imply that the data should be relied upon to make actionable decisions on filter, mask, or respirator selection.</p>
     </div>
   </div>
