@@ -75,6 +75,7 @@ subtitle = ""
     </div>
   <div class="row">
     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
+      <img class="img-fluid" src="https://i.imgur.com/ZxVItVB.png" alt="Particle diagram">
       <p class="text-left">The <a href="https://www.nytimes.com/2020/08/11/health/coronavirus-aerosols-indoors.html" target="_blank">latest research</a> confirms that most people become infected with Covid-19 by breathing in contaminated droplets that are ejected when talking, singing, eating, sneezing, coughing, etc.</p>
       <br>
       <p class="text-left">Infectious virus particles have been observed in both, large and small droplets. Larger droplets range in size down to 0.5mm. These fall to the ground quickly usually within 6 feet of where they are generated.</p>
