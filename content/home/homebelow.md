@@ -76,8 +76,7 @@ subtitle = ""
       <p class="text-left">The <a href="https://www.nytimes.com/2020/08/11/health/coronavirus-aerosols-indoors.html" target="_blank">latest research</a> confirms that most people become infected with Covid-19 by breathing in contaminated droplets that are ejected when talking, singing, eating, sneezing, coughing, etc.</p>
     </div>
     <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 col-xl-8">
-      <img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/home/maskhow.jpg?raw=true" alt="How to properly wear a mask">
-      <p class="text-muted small">Graphic by Hollister Breslin</p>
+      <img class="img-fluid" src="https://i.imgur.com/ZxVItVB.png" alt="How to properly wear a mask">
     </div>
     
   <div class="row">
