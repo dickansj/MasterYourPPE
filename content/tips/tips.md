@@ -54,9 +54,25 @@ subtitle = ""
 +++
 
 <div class="container-fluid">
-  <div class="row featurette">
-    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 section-heading">
-      <h1>Heading Title</h1>
+  <div class="row">
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 text-center">
+      <h3>How to wear a surgical mask:</h3>
     </div>
   </div> 
+  <div class="row">
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
+      <p class="text-left">Wearing a surgical mask correctly may not be obvious.  There are basically <b>two things</b> you must do (in addition to actually wearing the mask on your face, not on your head or under your chin) when in a public setting.  First, pull open the pleats so that the mask covers your chin completely.  Second, bend the nose clip wire down onto your face to customize the fit and seal of the mask.</p>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-xs-12 col-sm-12 col-md-2 col-lg-3 col-xl-3 order-xs-last order-sm-last order-md-first order-lg-first order-xl-first ">
+      <img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/wiki/frame-side-view.png?raw=true" alt="Mask Frame">
+    </div>
+    <div class="col-xs-12 col-sm-12 col-md-10 col-lg-9 col-xl-9">
+      <p class="text-left"><b>1) Make a Mask Frame</b><br>Easily enhance the effectiveness of your face covering by making a mask frame.  Your personalized mask frame will help to seal the air leaks around your face to stop airborne droplets from passing through.  See <a href="https://youtu.be/KZgRVWYM7rY" target="_blank">this</a> quick how-to video and <a href="https://github.com/dickansj/MasterYourPPE/wiki/Improve-Your-Mask-With-a-Frame" target="_blank">print</a> a mask frame template with instructions.</p>
+    </div>
+  </div> 
+
+
+  
 </div>
