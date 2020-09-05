@@ -69,7 +69,16 @@ subtitle = ""
       <p class="text-left">Noting the concentration and persistence of small droplets within enclosed areas, it is very important that everyone wear a good face covering. This is to prevent droplets from accumulating in breathing spaces. And of course, it’s prudent to continue to wash hands often, and to avoid crowds.</p>
     </div>
   </div> 
+  
   <div class="row mt-4">
+  <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
+      <h3>Will a mask protect me?</h3>
+      <p class="text-left">A good face covering that is worn correctly will substantially reduce the chance of breathing infected airborne droplets or of spreading infectious particles to others.</p>
+    </div>
+    <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 col-xl-8">
+      <img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/home/maskhow.jpg?raw=true" alt="How to properly wear a mask">
+      <p class="text-muted small">Graphic by Hollister Breslin</p>
+    </div>
     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
       <h3>What is really going on?</h3>
     </div>
