@@ -8,13 +8,14 @@ name = "My Theme"
 light = true
 
 # Primary
-primary = "#3f51b5"
+primary = "#83cabb"
+# 3f51b5
 
 # Menu
 menu_primary = "#2d2847"
 menu_text = "#83cabb"
 menu_text_active = "ffffff"
-menu_title = "#fff"
+menu_title = "#ffffff"
 
 # Home sections
 home_section_odd = "rgb(255, 255, 255)"
