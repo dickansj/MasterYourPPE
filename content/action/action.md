@@ -73,12 +73,12 @@ subtitle = ""
       <img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/wiki/frame-side-view.png?raw=true" alt="Mask Frame">
     </div>
     <div class="col-xs-12 col-sm-12 col-md-10 col-lg-9 col-xl-9">
-      <p class="text-left"><b>1) Make a Mask Frame</b><br>Easily enhance the effectiveness of your face covering by making a mask frame.  Your personalized mask frame will help to seal the air leaks around your face to stop airborne droplets from passing through.  See <a href="https://youtu.be/KZgRVWYM7rY" target="_blank">this</a> quick how-to video and <a href="https://github.com/dickansj/MasterYourPPE/wiki/Improve-Your-Mask-With-a-Frame" target="_blank">print</a> a mask frame template with instructions.</p>
+      <p class="text-left"><b>1) Add a Mask Frame</b><br>Easily enhance the effectiveness of your face covering by making a mask frame.  Your personalized mask frame will help to seal the air leaks around your face to stop airborne droplets from passing through.  See <a href="https://youtu.be/KZgRVWYM7rY" target="_blank">this</a> quick how-to video and <a href="https://github.com/dickansj/MasterYourPPE/wiki/Improve-Your-Mask-With-a-Frame" target="_blank">print</a> a mask frame template with instructions.</p>
     </div>
   </div> 
   <div class="row mt-4">
     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
-      <p class="text-left"><b>2) Make a Face Shield</b><br>You can make or buy a face shield to wear in conjunction with your face covering for a substantial boost to the effectiveness of just wearing a mask alone.  See our  instructions to making your own face mask.</p>
+      <p class="text-left"><b>2) Add a Face Shield</b><br>You can make or buy a face shield to wear in conjunction with your face covering for a substantial boost to the effectiveness of just wearing a mask alone.  See our  instructions to making your own face mask.</p>
       <img class="img-fluid" src="https://i.imgur.com/UhkVC29.png" alt="facemask diagram">
     </div>
   </div> 
