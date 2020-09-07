@@ -4,7 +4,7 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Master Your PPE"
+  name = "Home"
   url = "#why"
   weight = 10
 
