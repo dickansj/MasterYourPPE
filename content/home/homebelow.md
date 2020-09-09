@@ -70,7 +70,7 @@ subtitle = ""
     </div>
   </div> 
   
-  <div class="row my-4">
+  <div class="row my-4 align-items-top">
     <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-7">
       <h3>What is really going on?</h3>
       <p class="text-left">The <a href="https://www.nytimes.com/2020/08/11/health/coronavirus-aerosols-indoors.html" target="_blank">latest research</a> confirms that most people become infected with Covid-19 by breathing in contaminated droplets that are ejected when talking, singing, eating, sneezing, coughing, etc.</p>
