@@ -48,9 +48,10 @@ subtitle = ""
 +++
 
 <div class="container-fluid">
-  <div class="row featurette">
-    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 section-heading">
-      <h1>Filter, Mask, and Respirator Testing</h1>
+  <div class="row">
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
+      <h3>Filtering efficiency of common masks and materials.</h3>
+      <p> This plot compares the actual filtering efficiency of masks and materials for droplet sizes of 1um and .3um.  Note that .3um is the size used in industry for particle filtering efficiency rating. </p>
     </div>
   </div>
   <div class="row align-items-center mt-4">
@@ -63,22 +64,22 @@ subtitle = ""
       <p class="text-justify"><em>The 0.3- and 1.00-micron filtration efficiencies of different filter materials, masks, and respirators.</em></p>
     </div>
   </div>
-  <div class="row align-items left">
+  <div class="row align-items-left">
     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
-      <h3>Methods and Caveats</h3>
+      <h3>How we tested the masks and materials</h3>
     </div>
   </div>
-  <div class="row align-items left">
-    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
-                                                                  <img class="img-fluid" src="https://i.imgur.com/zRnrI99.png" alt="testing1" width="200" height="400">
-      <img class="img-fluid" src="https://i.imgur.com/wGjUPlB.png" alt="testing2" width="200" height="400">
-      <p>We used a Fluke 985 Particle Counter to measure the filtration efficiency of several commercially available masks and respirators and that of other commonly available materials.  The testing apparatus consisted of a 4-inch PVC pipe cap with a 1/2-inch access hole drilled on the side where the particle counter's conical test port was inserted.  Above the access hole, we mounted an adjustable hose clamp to provide a tight seal between the cap and the filter material being tested.  Each material was tested for two minutes and the data was normalized against unfiltered measurements of the room air.  Subsequent testing of the same filter material yielded slightly different counts; however the variation was usually below 0.5% of the initial values.</p>
-                                                                  
-                                                                  
-      
-      
-  <p>The reader should note that these test results are <b>not</b> scientifically valid.  The results may provide a fair indication of filter efficiency and could be used to compare the performance of filter material types. However, the results do not imply that the data should be relied upon to make actionable decisions on filter, mask, or respirator selection.</p>                                            
-      
+  <div class="row align-items-center">
+    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3 col-xl-3 mx-4">
+      <img class="img-fluid" src="https://i.imgur.com/zRnrI99.png" alt="testing1" width="200" height="400">
+    </div>
+      <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3 col-xl-3 mx-4">
+        <img class="img-fluid" src="https://i.imgur.com/wGjUPlB.png" alt="testing2" width="200" height="400">
+      </div>
   </div>
-</div>
+                                                                                                          
+      <p>We used a Fluke 985 Particle Counter to measure the filtration efficiency of several commercially available masks and respirators and that of other commonly available materials.  The testing apparatus consisted of a 4-inch PVC pipe cap with a 1/2-inch access hole drilled on the side where the particle counter's conical test port was inserted.  Above the access hole, we mounted an adjustable hose clamp to provide a tight seal between the cap and the filter material being tested.  Each material was tested for two minutes and the data was normalized against unfiltered measurements of the room air.  Subsequent testing of the same filter material yielded slightly different counts; however the variation was usually below 0.5% of the initial values.</p>
+    
+  <p>The reader should note that these test results are <b>not</b> scientifically valid.  The results may provide a fair indication of filter efficiency and could be used to compare the performance of filter material types. However, the results do not imply that the data should be relied upon to make actionable decisions on filter, mask, or respirator selection.</p>        
+
 </div>
