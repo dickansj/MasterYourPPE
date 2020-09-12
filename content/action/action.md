@@ -79,7 +79,7 @@ subtitle = ""
   <div class="row mt-4">
     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
       <p class="text-left"><b>2) Add a Face Shield</b><br>You can make or buy a face shield to wear in conjunction with your face covering for a substantial boost to the effectiveness of just wearing a mask alone.  See our  instructions to making your own face mask.</p>
-      <img class="img-fluid" src="https://images.firstpost.com/fpimages/380x285/fixed/jpg/2020/06/Covid-19-coronavirus-sneeze-simulation_Dassualt-Systemes-1.jpg" alt="facemask">
+      <img class="img-fluid" src="https://images.firstpost.com/fpimages/380x285/fixed/jpg/2020/06/Covid-19-coronavirus-sneeze-simulation_Dassualt-Systemes-1.jpg" alt="facemask" width="400" height="250">
     </div>
   </div> 
 
