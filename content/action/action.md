@@ -61,7 +61,7 @@ subtitle = ""
   </div> 
   <div class="row">
     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
-      <p class="text-left">After <a href="https://www.masteryourppe.com/testing" target="_blank">testing the filtering efficiency</a> of several face masks and common materials used for face coverings, we find that 3-layer surgical masks are very effective at trapping potentially infections airborne droplets.  These common surgical mask types are sold at neighborhood drug stores and most hardware stores.  Always carry two masks with you.  One to wear and one as spare, in your car, your bag, or your pocket.</p>
+      <p class="text-left">After <b><a href="https://www.masteryourppe.com/testing" target="_blank">testing the filtering efficiency</a></b> of several face masks and common materials used for face coverings, we find that 3-layer surgical masks are very effective at trapping potentially infections airborne droplets.  These common surgical mask types are sold at neighborhood drug stores and most hardware stores.  Always carry two masks with you.  One to wear and one as spare, in your car, your bag, or your pocket.</p>
     </div>
   </div> 
   <div class="row mt-4">
@@ -73,7 +73,7 @@ subtitle = ""
       <img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/wiki/frame-side-view.png?raw=true" alt="Mask Frame">
     </div>
     <div class="col-xs-12 col-sm-12 col-md-10 col-lg-9 col-xl-9">
-      <p class="text-left"><b>1) Add a Mask Frame</b><br>Easily enhance the effectiveness of your face covering by making a mask frame.  Your personalized mask frame will help to seal the air leaks around your face to stop airborne droplets from passing through.  See <a href="https://youtu.be/KZgRVWYM7rY" target="_blank">this</a> quick how-to video and <a href="https://github.com/dickansj/MasterYourPPE/wiki/Improve-Your-Mask-With-a-Frame" target="_blank">print</a> a mask frame template with instructions.</p>
+      <p class="text-left"><b>1) Add a Mask Frame</b><br>Easily enhance the effectiveness of your face covering by making a mask frame.  Your personalized mask frame will help to seal the air leaks around your face to stop airborne droplets from passing through.  See <b><a href="https://youtu.be/KZgRVWYM7rY" target="_blank">this</a></b> quick how-to video and <b><a href="https://github.com/dickansj/MasterYourPPE/wiki/Improve-Your-Mask-With-a-Frame" target="_blank">print</a></b> a mask frame template with instructions.</p>
     </div>
   </div> 
   <div class="row mt-4">
