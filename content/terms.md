@@ -17,5 +17,3 @@ The content of this project, including all documentation and hardware designs, i
 
 Our project content has not been reviewed to the standards of the scientific community, and so it should not be construed as medical advice. We believe our testing supports the hypothesis that these designs can make your PPE more effective at protection, but we offer no conclusions regarding health effects or safety. All content is licensed without warranty.
 
-## Other Attributions
-Our icon and logo are adapted from the work of Freepik on [Flaticon](https://www.flaticon.com/).
