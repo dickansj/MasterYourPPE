@@ -69,7 +69,7 @@ subtitle = ""
       <h3>What else can I do?</h3>
     </div>
   <div class="row">
-    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 order-xs-last order-sm-last order-md-last order-lg-last order-xl-last px-4">
+    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 order-xs-last order-sm-last order-md-last order-lg-last order-xl-last ml-4">
       <img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/wiki/frame-side-view.png?raw=true" alt="Mask Frame">
     </div>
     <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 col-xl-8">
