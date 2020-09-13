@@ -20,8 +20,8 @@
   weight = 30
 
  [[main]]
-   name = "News & Science"
-   url = "/news"
+   name = "PPE Performance"
+   url = "/testing"
    weight = 40
 
  [[main]]
