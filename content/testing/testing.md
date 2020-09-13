@@ -50,8 +50,8 @@ subtitle = ""
 <div class="container-fluid">
   <div class="row">
     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
-      <h3>Filtering efficiency of common masks and materials.</h3>
-      <p> This plot compares the actual filtering efficiency of masks and materials for droplet sizes of 1um and .3um.  Note that .3um is the size used in industry for particle filtering efficiency rating. </p>
+      <h3>Filtering efficiency of common masks and materials:</h3>
+      <p> This plot compares the actual filtering efficiency of masks and materials for droplet sizes of 1um and 0.3um.  Note that 0.3um is the size used in industry for particle filtering efficiency rating. </p>
     </div>
   </div>
   <div class="row align-items-center mt-4">
@@ -66,7 +66,7 @@ subtitle = ""
   </div>
   <div class="row align-items-left">
     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
-      <h3>How we tested the masks and materials</h3>
+      <h3>How we tested the masks and materials:</h3>
     </div>
   </div>
   <div class="row align-items-center">
