@@ -65,10 +65,10 @@ subtitle = ""
     </div>
   </div>
   <div class="row">
-    <div class="col-xs-12 col-sm-12 col-md-2 col-lg-3 col-xl-3 order-xs-last order-sm-last order-md-first order-lg-first order-xl-first">
+    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 order-xs-last order-sm-last order-md-first order-lg-first order-xl-first">
       <img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/tips/sneeze.png?raw=true" alt="Catch your sneeze">
     </div>
-    <div class="col-xs-12 col-sm-12 col-md-10 col-lg-9 col-xl-9">
+    <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 col-xl-8">
       <h3>Catch a sneeze.</h3>
       <p class="text-left">Nobody likes to sneeze inside of their mask, gross!  Especially true when you have only one mask with you that needs to stay on for hours.  So, in addition to a spare mask, always carry a clean tissue in your pocket, ready to catch that sneeze.</p>
       <p class="text-left">Remember that one of the main purposes of wearing a mask in public is to stop airborne droplets.  So removing it (even momentarily) to sneeze defeats the objective.  This is where you have to be very diligent in stopping droplets from taking to the air by using a tissue effectively to catch your sneeze.</p>
@@ -76,13 +76,13 @@ subtitle = ""
     </div>
   </div> 
   <div class="row">
-    <div class="col-xs-12 col-sm-12 col-md-2 col-lg-3 col-xl-3 order-xs-last order-sm-last order-md-first order-lg-first order-xl-first">
+    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 order-xs-last order-sm-last order-md-first order-lg-first order-xl-first">
       <img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/tips/facemask-1.jpg?raw=true" alt="Catch your sneeze">
     </div>
-    <div class="col-xs-12 col-sm-12 col-md-10 col-lg-9 col-xl-9">
+    <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 col-xl-8">
       <h3>Check your mask type.</h3>
       <p class="text-left">A quick way to check that you have a 3-layer mask, is to cut one open and count the layers.  The two outer ‘hydrophobic’ layers are used to repel moisture, while the inside layer is the melt-blown filter.</p>
-      <p class="text-left">By comparison, 2-layer masks lack the innermost filtering layer.  These perform poorly with the smaller droplet sizes.  These are typically sold at beauty supplies stores.</p>
+      <p class="text-left">By comparison, 2-layer masks lack the innermost filtering layer.  These masks perform poorly at filtering smaller droplets.  Two-layer masks are typically sold at beauty supply stores.</p>
     </div>
   </div>
   <div class="row">
