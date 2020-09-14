@@ -64,7 +64,7 @@ subtitle = ""
       <p class="text-left">Wearing a surgical mask correctly may not be obvious.  There are basically <b>two things</b> you must do (in addition to actually wearing the mask on your face, not on your head or under your chin) when in a public setting.  First, pull open the pleats so that the mask covers your chin completely.  Second, bend the nose clip wire down onto your face to customize the fit and seal of the mask.</p>
     </div>
   </div>
-  <div class="row">
+  <div class="row align-items-center">
     <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 col-xl-8">
       <h3>Catch a sneeze.</h3>
       <p class="text-left">Nobody likes to sneeze inside of their mask, gross!  Especially true when you have only one mask with you that needs to stay on for hours.  So, in addition to a spare mask, always carry a clean tissue in your pocket, ready to catch that sneeze.</p>
