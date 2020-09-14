@@ -61,7 +61,7 @@ subtitle = ""
   </div> 
   <div class="row">
     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
-      <p class="text-left">After <b><a href="https://www.masteryourppe.com/testing" target="_blank">testing the filtering efficiency</a></b> of several face masks and common materials used for face coverings, we find that 3-layer surgical masks are very effective at trapping potentially infections airborne droplets.  These common surgical mask types are sold at neighborhood drug stores and most hardware stores.  Always carry two masks with you.  One to wear and one as spare, in your car, your bag, or your pocket.</p>
+      <p class="text-left">After <b><a href="https://www.masteryourppe.com/testing" target="_blank">testing the filtering efficiency</a></b> of several face masks and common materials used for face coverings, we find that 3-layer surgical masks are very effective at trapping potentially infections airborne droplets.  These common surgical mask types are sold at neighborhood drug stores and most hardware stores (you can look for "3-layer disposable masks").  Always carry two masks with you: one to wear and one as a spare, in your car, your bag, or your pocket.</p>
     </div>
   </div> 
   <div class="row mt-4">
@@ -69,20 +69,20 @@ subtitle = ""
       <h3>What else can I do?</h3>
     </div>
   <div class="row align-items-xl-center">
-    <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 col-xl-8 pr-4">
+    <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 col-xl-8 px-4">
       <p class="text-left"><b>1) Add a Mask Frame</b><br>Easily enhance the effectiveness of your face covering by making a mask frame.  Your personalized mask frame will help to seal the air leaks around your face to stop airborne droplets from passing through.  See <b><a href="https://youtu.be/KZgRVWYM7rY" target="_blank">this</a></b> quick how-to video and <b><a href="https://github.com/dickansj/MasterYourPPE/wiki/Improve-Your-Mask-With-a-Frame" target="_blank">print</a></b> a mask frame template with instructions.</p>
     </div>
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 order-xs-last order-sm-last order-md-last order-lg-last order-xl-last">
       <img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/wiki/frame-side-view.png?raw=true" alt="Mask Frame">
     </div>
   </div> 
-  <div class="row mt-4">
-    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
+  <div class="row mt-4 align-items-xl-center">
+    <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 col-xl-8 px-4">
       <p class="text-left"><b>2) Add a Face Shield</b><br>You can make or buy a face shield to wear in conjunction with your face covering for a substantial boost to the effectiveness of just wearing a mask alone.  See our  instructions to making your own face mask.</p>
-      <div style="text-align: center;">
-        <img class="img-fluid" src="https://images.firstpost.com/fpimages/380x285/fixed/jpg/2020/06/Covid-19-coronavirus-sneeze-simulation_Dassualt-Systemes-1.jpg" alt="facemask" width="400" height="220">
-      </div>
+    </div>    
+    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 order-xs-last order-sm-last order-md-first order-lg-first order-xl-first">
+        <img class="img-fluid" src="https://images.firstpost.com/fpimages/380x285/fixed/jpg/2020/06/Covid-19-coronavirus-sneeze-simulation_Dassualt-Systemes-1.jpg" alt="facemask">
     </div>
-  </div> 
+  </div>
 
 </div>
