@@ -78,10 +78,10 @@ subtitle = ""
     </div>
   </div>
   <div class="row">
-    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 my-4">
+    <div class="col-xs-10 col-sm-10 col-md-4 col-lg-4 col-xl-4 my-4">
       <img class="img-fluid" src="https://i.imgur.com/wGjUPlB.png" alt="testing2">
     </div>
-    <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 col-xl-8">
+    <div class="col-xs-10 col-sm-10 col-md-8 col-lg-8 col-xl-8">
       <p class="text-left">The reader should note that these test results are <b>not</b> scientifically valid.  The results may provide a fair indication of filter efficiency and could be used to compare the performance of filter material types. However, the results do not imply that the data should be relied upon to make actionable decisions on filter, mask, or respirator selection.</p>    
     </div>
   </div>
