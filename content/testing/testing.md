@@ -77,7 +77,7 @@ subtitle = ""
       <img class="img-fluid" src="https://i.imgur.com/zRnrI99.png" alt="testing1">
     </div>
   </div>
-  <div class="row align-items-center">
+  <div class="row align-items-center justify-content-around">
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 my-4" style="max-width:288px;">
       <img class="img-fluid" src="https://i.imgur.com/wGjUPlB.png" alt="testing2">
     </div>
