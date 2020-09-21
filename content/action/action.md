@@ -61,7 +61,7 @@ subtitle = ""
   </div> 
   <div class="row">
     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
-      <p class="text-left">After <b><a href="https://www.masteryourppe.com/testing" target="_blank">testing the filtering efficiency</a></b> of several face masks and common materials used for face coverings, we find that 3-layer surgical masks are very effective at trapping potentially infections airborne droplets.  These common surgical mask types are sold at neighborhood drug stores and most hardware stores (you can look for "3-layer disposable masks").  Always carry two masks with you: one to wear and one as a spare, in your car, your bag, or your pocket.</p>
+      <p class="text-left">After <b><a href="https://www.masteryourppe.com/testing" target="_blank">testing the filtering efficiency</a></b> of several face masks and common materials used for face coverings, we find that 3-layer disposable masks are very effective at trapping potentially infections airborne droplets. These common mask types are sold at neighborhood drug stores and most hardware stores.  Specifically, look for 3-layer masks (aka surgical masks). And remember to always carry two masks with you: one to wear and one as a spare, in your car, your bag, or your pocket.</p>
     </div>
   </div> 
   <div class="row mt-4">
