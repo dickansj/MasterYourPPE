@@ -101,7 +101,7 @@ subtitle = ""
       <p class="text-left">Tie a string between the ear loops of your mask.  This will keep the loops from rubbing or digging into the skin behind your ears after hours of use.  You can also use the elastic ear loop string itself for this purpose.  Just rip off an ear loop string from an old mask on its way to being trashed.</p>
     </div>
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 order-xs-last order-sm-last order-md-first order-lg-first order-xl-first my-4">
-      <img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/tips/strings-attached.jpg?raw=true" alt="Make your mask time more comfortable">
+      <img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/tips/masktied.jpeg?raw=true" alt="Make your mask time more comfortable">
     </div>
   </div> 
   <div class="row align-items-center">
