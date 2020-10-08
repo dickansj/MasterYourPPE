@@ -78,7 +78,7 @@ subtitle = ""
     </div>
   </div> 
   <div class="row">
-    <div class="col-xs-12 col-sm-12 col-md-8 col-lg-4 col-xl-4 px-4 m-4">
+    <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 col-xl-8 px-4 my-4">
       <a href="https://youtu.be/KZgRVWYM7rY" target="_blank"><img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/action/maskframevid.png?raw=true"></a>
     </div>
   </div>
