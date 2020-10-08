@@ -73,7 +73,7 @@ subtitle = ""
       <p class="text-left"><b>1) Add a Mask Frame</b><br>Easily enhance the effectiveness of your face covering by making a mask frame.  Your personalized mask frame will help to seal the air leaks around your face to stop airborne droplets from passing through.  See <b><a href="https://youtu.be/KZgRVWYM7rY" target="_blank">this</a></b> quick how-to video and <b><a href="https://github.com/dickansj/MasterYourPPE/wiki/Improve-Your-Mask-With-a-Frame" target="_blank">print</a></b> a mask frame template with instructions.</p>
       <p class= "text-left">You should know that wearing a well-fitting mask for a long time may cause shortness of breath, especially if you are relaxed and breathing shallow.  The solution is to take a few deep breaths while keeping the mask on.  This will help to bring in more fresh air.</p>
     </div>
-    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 order-xs-last order-sm-last order-md-last order-lg-last order-xl-last">
+    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 order-xs-last order-sm-last order-md-last order-lg-last order-xl-last mx-auto">
       <img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/wiki/frame-side-view.png?raw=true" alt="Add a mask frame">
     </div>
   </div> 
@@ -86,7 +86,7 @@ subtitle = ""
     <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 col-xl-8 px-4">
       <p class="text-left"><b>2) Add a Face Shield</b><br>You can make or buy a face shield to wear in conjunction with your face covering for a substantial boost to the effectiveness of just wearing a mask alone.</p>
     </div>    
-    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
+    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 mx-auto">
         <img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/action/dutton-shield1.png?raw=true" alt="Add a face shield">
     </div>
   </div>
