@@ -80,7 +80,7 @@ subtitle = ""
       <p class="text-left">Attach a paper clip to each side of a baseball cap then attach the ear loops of a surgical mask to the clips.  This will save you from having to wear the mask loops around your ears.  Or, if you have access to a 3-D printer, download and print <b><a href="https://github.com/dickansj/MasterYourPPE/blob/master/designs/facemask/maskclip/MaskClipv3.stl" target="_blank">this cap clip STL file</a></b> to do the same thing, in style.</p>
     </div>
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 order-xs-last order-sm-last order-md-first order-lg-first order-xl-first my-4">
-      <img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/tips/clip.png?raw=true" alt="Cap clips will keep your mask loops from straining your ears">
+      <img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/tips/capclipvid.png?raw=true" alt="Cap clips will keep your mask loops from straining your ears">
     </div>
   </div> 
   <div class="row align-items-center">
