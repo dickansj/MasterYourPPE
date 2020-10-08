@@ -86,7 +86,7 @@ subtitle = ""
     <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 col-xl-8 px-4">
       <p class="text-left"><b>2) Add a Face Shield</b><br>You can make or buy a face shield to wear in conjunction with your face covering for a substantial boost to the effectiveness of just wearing a mask alone.</p>
     </div>    
-    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
+    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 m-4">
         <img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/action/dutton-shield1.png?raw=true" alt="Add a face shield">
     </div>
   </div>
