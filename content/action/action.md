@@ -77,6 +77,9 @@ subtitle = ""
       <img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/wiki/frame-side-view.png?raw=true" alt="Add a mask frame">
     </div>
   </div> 
+  <div class="row">
+    <div class="col-xs-12 col-sm-12 col-md-8 col-lg-4 col-xl-4 px-4">
+      <a href="https://youtu.be/KZgRVWYM7rY" target="_blank"><img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/action/maskframevid.png?raw=true"></a>
   <div class="row mt-4 align-items-xl-center">
     <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 col-xl-8 px-4">
       <p class="text-left"><b>2) Add a Face Shield</b><br>You can make or buy a face shield to wear in conjunction with your face covering for a substantial boost to the effectiveness of just wearing a mask alone.</p>
