@@ -25,6 +25,11 @@
    weight = 40
 
  [[main]]
+   name = "News & Science"
+   url = "/news"
+   weight = 45
+
+ [[main]]
    name = "About Us"
    url = "/team"
    weight = 50
