@@ -67,7 +67,7 @@ subtitle = ""
 
   <div class="collapse" id="science">
     <div class="row align-items-center justify-content-around">
-      <div class="col-xs-12 col-sm-12 col-md-6 col-lg-5 col-xl-4 my-4">
+      <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-8 my-4">
         <div class="card">
           <a href="https://elemental.medium.com/a-supercomputer-analyzed-covid-19-and-an-interesting-new-theory-has-emerged-31cb8eba9d63" target="_blank">
             <img class="card-img-top" src="https://miro.medium.com/max/2190/1*2J1YRGI9VhWVcUlAVXLImA.jpeg">
@@ -85,7 +85,7 @@ subtitle = ""
       </div>
     </div>
     <div class="row align-items-center justify-content-around">
-      <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-9 my-4">
+      <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-8">
         <div class="card card-body">
           <ul><a href="https://depts.washington.edu/pandemicalliance/covid-19-literature-report/latest-reports/" target="_blank">COVID-19 Literature Report (Pre-Prints)</a><small class="text-muted"> | Univ. Washington</small></ul>
           <ul><a href="https://www.nature.com/articles/d41586-020-00502-w" target="_blank">Ongoing Summary of Key COVID-19 Papers</a><small class="text-muted"> | Nature</small></ul>
