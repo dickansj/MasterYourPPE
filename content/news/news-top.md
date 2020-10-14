@@ -67,12 +67,20 @@ subtitle = ""
 
   <div class="collapse" id="science">
     <div class="row align-items-center justify-content-around">
-      <div class="card card-body">
-        Under Construction
+      <div class="card">
+        <img class="card-img-top" src="https://miro.medium.com/max/2190/1*2J1YRGI9VhWVcUlAVXLImA.jpeg">
+        <div class="card-body">
+          <h5 class="card-title">A Supercomputer Analyzed Covid-19 — and an Interesting New Theory Has Emerged</h5>
+          <p class="card-text">A closer look at the Bradykinin hypothesis</p>
+        </div>
+        <div class="card-footer">
+          <small class="text-muted">Medium - Thomas Smith</small>
+        </div>
       </div>
     </div>
   </div>
-   <div class="collapse" id="healthcare">
+  
+  <div class="collapse" id="healthcare">
     <div class="row align-items-center justify-content-around">
       <div class="card card-body">
         Under Construction
