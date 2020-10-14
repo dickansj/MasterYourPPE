@@ -76,7 +76,7 @@ subtitle = ""
             <a href="https://elemental.medium.com/a-supercomputer-analyzed-covid-19-and-an-interesting-new-theory-has-emerged-31cb8eba9d63" target="_blank">
               <h5 class="card-title">A Supercomputer Analyzed Covid-19 — and an Interesting New Theory Has Emerged</h5>
             </a>
-            <p class="card-text">A closer look at the Bradykinin hypothesis.</p>
+            <p class="card-text text-left" style="font-style: italic">A closer look at the Bradykinin hypothesis.</p>
           </div>
           <div class="card-footer">
             <small class="text-muted">Medium - Thomas Smith</small>
