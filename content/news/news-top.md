@@ -47,7 +47,7 @@ subtitle = ""
  css_class = ""
 +++
 
-<div class="container-fluid">
+<div class="container-fluid" id="#newsCollapsible">
 
   <div class="row align-items-center justify-content-around">
     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 mb-4">
@@ -66,7 +66,7 @@ subtitle = ""
   </div>
 
   <div class="accordion-group">
-    <div class="collapse" id="science" data-parent="#newsCollapsible">
+    <div class="collapse" id="science">
       <div class="row align-items-center justify-content-around">
         <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-8 my-4">
           <div class="card">
@@ -100,7 +100,7 @@ subtitle = ""
     </div>
   </div>
 
-  <div class="collapse" id="healthcare" data-parent="#newsCollapsible">
+  <div class="collapse" id="healthcare">
     <div class="row align-items-center justify-content-around">
       <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-8 my-4">
         <div class="card">
