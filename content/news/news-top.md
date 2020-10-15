@@ -65,8 +65,8 @@ subtitle = ""
     </div>
   </div>
 
-  <div class="tab-content" id="newsCollapsible">
-    <div class="collapse" id="science">
+  <div class="accordion-group">
+    <div class="collapse" id="science" data-parent="#newsCollapsible">
       <div class="row align-items-center justify-content-around">
         <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-8 my-4">
           <div class="card">
@@ -100,7 +100,7 @@ subtitle = ""
     </div>
   </div>
 
-  <div class="collapse" id="healthcare">
+  <div class="collapse" id="healthcare" data-parent="#newsCollapsible">
     <div class="row align-items-center justify-content-around">
       <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-8 my-4">
         <div class="card">
