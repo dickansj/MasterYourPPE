@@ -64,8 +64,6 @@ subtitle = ""
       </div>
     </div>
   
-  <div class="accordion-group">
-
     <div class="collapse" id="science">
       <div class="row align-items-center justify-content-around">
         <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-8 my-4">
@@ -131,5 +129,4 @@ subtitle = ""
       </div>
     </div>
 
-  </div>
 </div>
