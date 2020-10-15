@@ -48,7 +48,6 @@ subtitle = ""
 +++
 
 <div class="container-fluid"">
-  <div id="newsCollapsible">
     <div class="row align-items-center justify-content-around">
       <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 mb-4">
         <button class="btn" type="button" data-toggle="collapse" data-parent="#newsCollapsible" data-target="#science" role="button" aria-expanded="false" aria-controls="science">
