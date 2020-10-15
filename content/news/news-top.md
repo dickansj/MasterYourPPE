@@ -51,12 +51,12 @@ subtitle = ""
 
   <div class="row align-items-center justify-content-around">
     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 mb-4">
-      <a data-toggle="collapse" href="#science" role="button" aria-expanded="false" aria-controls="science">
+      <a data-toggle="collapse" data-parent=".newsCollapsible" href="#science" role="button" aria-expanded="false" aria-controls="science">
         <img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/news/covid-science.png?raw=true" alt="Coronavirus Science">
       </a>
     </div>
     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 mb-4">
-      <a data-toggle="collapse" href="#healthcare" role="button" aria-expanded="false" aria-controls="healthcare">
+      <a data-toggle="collapse" data-parent=".newsCollapsible" href="#healthcare" role="button" aria-expanded="false" aria-controls="healthcare">
         <img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/news/covid-healthcare.png?raw=true" alt="Healthcare and Treatment">
       </a>
     </div>
@@ -65,68 +65,72 @@ subtitle = ""
     </div>
   </div>
 
-  <div class="collapse" id="science">
-    <div class="row align-items-center justify-content-around">
-      <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-8 my-4">
-        <div class="card">
-          <a href="https://elemental.medium.com/a-supercomputer-analyzed-covid-19-and-an-interesting-new-theory-has-emerged-31cb8eba9d63" target="_blank">
-            <img class="card-img-top" src="https://miro.medium.com/max/2190/1*2J1YRGI9VhWVcUlAVXLImA.jpeg">
-          </a>
-          <div class="card-body">
+  <div class="newsCollapsible">
+    <div class="collapse" id="science">
+      <div class="row align-items-center justify-content-around">
+        <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-8 my-4">
+          <div class="card">
             <a href="https://elemental.medium.com/a-supercomputer-analyzed-covid-19-and-an-interesting-new-theory-has-emerged-31cb8eba9d63" target="_blank">
-              <h5 class="card-title">A Supercomputer Analyzed Covid-19 — and an Interesting New Theory Has Emerged</h5>
+              <img class="card-img-top" src="https://miro.medium.com/max/2190/1*2J1YRGI9VhWVcUlAVXLImA.jpeg">
             </a>
-            <p class="card-text text-left" style="font-style: italic">A closer look at the Bradykinin hypothesis.</p>
-          </div>
-          <div class="card-footer">
-            <small class="text-muted">Medium - Thomas Smith</small>
+            <div class="card-body">
+              <a href="https://elemental.medium.com/a-supercomputer-analyzed-covid-19-and-an-interesting-new-theory-has-emerged-31cb8eba9d63" target="_blank">
+                <h5 class="card-title">A Supercomputer Analyzed Covid-19 — and an Interesting New Theory Has Emerged</h5>
+              </a>
+              <p class="card-text text-left" style="font-style: italic">A closer look at the Bradykinin hypothesis.</p>
+            </div>
+            <div class="card-footer">
+              <small class="text-muted">Medium - Thomas Smith</small>
+            </div>
           </div>
         </div>
       </div>
-    </div>
-    <div class="row align-items-center justify-content-around">
-      <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-8">
-        <div class="card">
-          <div class="card-header">More on the Science of COVID-19</div>
-          <div class="card-body">
-            <ul><a href="https://depts.washington.edu/pandemicalliance/covid-19-literature-report/latest-reports/" target="_blank">COVID-19 Literature Report (Pre-Prints)</a><small class="text-muted"> | Univ. Washington</small></ul>
-            <ul><a href="https://www.nature.com/articles/d41586-020-00502-w" target="_blank">Ongoing Summary of Key COVID-19 Papers</a><small class="text-muted"> | Nature</small></ul>
-            <ul><a href="https://www.sciencemag.org/news/2020/09/hidden-immune-weakness-found-14-gravely-ill-covid-19-patients" target="_blank">Hidden Immune Weakness Found in 14% of Gravely Ill COVID-19 Patients</a><small class="text-muted"> | Science</small></ul>
+      <div class="row align-items-center justify-content-around">
+        <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-8">
+          <div class="card">
+            <div class="card-header">More on the Science of COVID-19</div>
+            <div class="card-body">
+              <ul><a href="https://depts.washington.edu/pandemicalliance/covid-19-literature-report/latest-reports/" target="_blank">COVID-19 Literature Report (Pre-Prints)</a><small class="text-muted"> | Univ. Washington</small></ul>
+              <ul><a href="https://www.nature.com/articles/d41586-020-00502-w" target="_blank">Ongoing Summary of Key COVID-19 Papers</a><small class="text-muted"> | Nature</small></ul>
+              <ul><a href="https://www.sciencemag.org/news/2020/09/hidden-immune-weakness-found-14-gravely-ill-covid-19-patients" target="_blank">Hidden Immune Weakness Found in 14% of Gravely Ill COVID-19 Patients</a><small class="text-muted"> | Science</small></ul>
+            </div>
           </div>
-        </div>
-      </div>     
+        </div>     
+      </div>
     </div>
   </div>
-  
-  <div class="collapse" id="healthcare">
-    <div class="row align-items-center justify-content-around">
-      <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-8 my-4">
-        <div class="card">
-          <a href="https://www.sciencemag.org/news/2020/09/provocative-results-boost-hopes-antibody-treatment-covid-19" target="_blank">
-            <img class="card-img-top" src="https://www.sciencemag.org/sites/default/files/styles/inline__450w__no_aspect/public/antibody_1280p.jpg?itok=dKd3wFrd">
-          </a>
-          <div class="card-body">
-            <a href="https://elemental.medium.com/a-supercomputer-analyzed-covid-19-and-an-interesting-new-theory-has-emerged-31cb8eba9d63" target="_blank">
-              <h5 class="card-title">‘Provocative Results’ Boost Hopes of Antibody Treatment for COVID-19</h5>
+ 
+  <div class="newsCollapsible"
+    <div class="collapse" id="healthcare">
+      <div class="row align-items-center justify-content-around">
+        <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-8 my-4">
+          <div class="card">
+            <a href="https://www.sciencemag.org/news/2020/09/provocative-results-boost-hopes-antibody-treatment-covid-19" target="_blank">
+              <img class="card-img-top" src="https://www.sciencemag.org/sites/default/files/styles/inline__450w__no_aspect/public/antibody_1280p.jpg?itok=dKd3wFrd">
             </a>
-            <p class="card-text text-left" style="font-style: italic">Regeneron’s monoclonal antibody cocktail reduces viral load in people infected with SARS-CoV-2</p>
-          </div>
-          <div class="card-footer">
-            <small class="text-muted">Science | Jon Cohen</small>
+            <div class="card-body">
+              <a href="https://elemental.medium.com/a-supercomputer-analyzed-covid-19-and-an-interesting-new-theory-has-emerged-31cb8eba9d63" target="_blank">
+                <h5 class="card-title">‘Provocative Results’ Boost Hopes of Antibody Treatment for COVID-19</h5>
+              </a>
+              <p class="card-text text-left" style="font-style: italic">Regeneron’s monoclonal antibody cocktail reduces viral load in people infected with SARS-CoV-2</p>
+            </div>
+            <div class="card-footer">
+              <small class="text-muted">Science | Jon Cohen</small>
+            </div>
           </div>
         </div>
       </div>
-    </div>
-    <div class="row align-items-center justify-content-around">
-      <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-8">
-        <div class="card">
-          <div class="card-header">More on Healthcare & Treatment</div>
-          <div class="card-body">
-            <ul><a href="https://coronavirus.jhu.edu/covid-19-basics/understanding-covid-19" target="_blank">Understanding the COVID-19 Pandemic (Public Online Course)</a><small class="text-muted"> | Johns Hopkins University</small></ul>
-            <ul><a href="https://coronavirus.jhu.edu/news" target="_blank">Curated Updates From the Coronavirus Resource Center</a><small class="text-muted"> | Johns Hopkins University</small></ul>
+      <div class="row align-items-center justify-content-around">
+        <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-8">
+          <div class="card">
+            <div class="card-header">More on Healthcare & Treatment</div>
+            <div class="card-body">
+              <ul><a href="https://coronavirus.jhu.edu/covid-19-basics/understanding-covid-19" target="_blank">Understanding the COVID-19 Pandemic (Public Online Course)</a><small class="text-muted"> | Johns Hopkins University</small></ul>
+              <ul><a href="https://coronavirus.jhu.edu/news" target="_blank">Curated Updates From the Coronavirus Resource Center</a><small class="text-muted"> | Johns Hopkins University</small></ul>
+            </div>
           </div>
-        </div>
-      </div>     
+        </div>     
+      </div>
     </div>
   </div>
 
