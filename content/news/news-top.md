@@ -51,12 +51,12 @@ subtitle = ""
 
   <div class="row align-items-center justify-content-around">
     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 mb-4">
-      <a data-toggle="collapse" data-parent="newsCollapsible" href="#science" role="button" aria-expanded="false" aria-controls="science">
+      <a data-toggle="collapse newsCollapsible" data-parent=".newsCollapsible" href="#science" role="button" aria-expanded="false" aria-controls="science">
         <img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/news/covid-science.png?raw=true" alt="Coronavirus Science">
       </a>
     </div>
     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 mb-4">
-      <a data-toggle="collapse" data-parent="newsCollapsible" href="#healthcare" role="button" aria-expanded="false" aria-controls="healthcare">
+      <a data-toggle="collapse newsCollapsible" data-parent=".newsCollapsible" href="#healthcare" role="button" aria-expanded="false" aria-controls="healthcare">
         <img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/news/covid-healthcare.png?raw=true" alt="Healthcare and Treatment">
       </a>
     </div>
