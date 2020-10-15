@@ -49,23 +49,23 @@ subtitle = ""
 
 <div class="container-fluid">
 
-  <div class="row align-items-center justify-content-around">
-    <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 mb-4">
-      <a data-toggle="collapse" data-parent=".newsCollapsible" href="#science .newsCollapsible" role="button" aria-expanded="false" aria-controls="science">
-        <img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/news/covid-science.png?raw=true" alt="Coronavirus Science">
-      </a>
+  <div id="newsCollapsible">
+    <div class="row align-items-center justify-content-around">
+      <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 mb-4">
+        <a data-toggle="collapse" data-parent="#newsCollapsible" href="#science" role="button" aria-expanded="false" aria-controls="science">
+          <img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/news/covid-science.png?raw=true" alt="Coronavirus Science">
+        </a>
+      </div>
+      <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 mb-4">
+        <a data-toggle="collapse" data-parent="#newsCollapsible" href="#healthcare" role="button" aria-expanded="false" aria-controls="healthcare">
+          <img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/news/covid-healthcare.png?raw=true" alt="Healthcare and Treatment">
+        </a>
+      </div>
+      <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 mb-4">
+        <a href="https://covid19.who.int/" target="_blank" alt="WHO Coronavirus Dashboard"><img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/news/who-dashboard.png?raw=true"></a>
+      </div>
     </div>
-    <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 mb-4">
-      <a data-toggle="collapse" data-parent=".newsCollapsible" href="#healthcare .newsCollapsible" role="button" aria-expanded="false" aria-controls="healthcare">
-        <img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/news/covid-healthcare.png?raw=true" alt="Healthcare and Treatment">
-      </a>
-    </div>
-    <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 mb-4">
-      <a href="https://covid19.who.int/" target="_blank" alt="WHO Coronavirus Dashboard"><img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/news/who-dashboard.png?raw=true"></a>
-    </div>
-  </div>
 
-  <div class="newsCollapsible">
     <div class="collapse" id="science">
       <div class="row align-items-center justify-content-around">
         <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-8 my-4">
@@ -98,9 +98,7 @@ subtitle = ""
         </div>     
       </div>
     </div>
-  </div>
- 
-  <div class="newsCollapsible">
+
     <div class="collapse" id="healthcare">
       <div class="row align-items-center justify-content-around">
         <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-8 my-4">
@@ -133,6 +131,5 @@ subtitle = ""
       </div>
     </div>
   </div>
-
   
 </div>
