@@ -50,14 +50,14 @@ subtitle = ""
 <div class="container-fluid">
   <div class="row align-items-center justify-content-around">
   
-    <div id="content-nav" data-parent="#contentCollapsible" class="collapse">
+    <div class="content-nav">
       <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 mb-4">
-        <button class="btn" type="button" data-toggle="collapse" data-parent="#content-nav" data-target="#science" role="button" aria-expanded="false" aria-controls="science">
+        <button class="btn" type="button" data-toggle="collapse" data-target="#science" role="button" aria-expanded="false" aria-controls="science">
           <img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/news/covid-science.png?raw=true" alt="Coronavirus Science">
         </button>
       </div>
       <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 mb-4">
-        <button class="btn" type="button" data-toggle="collapse" data-parent="#content-nav" data-target="#healthcare" role="button" aria-expanded="false" aria-controls="healthcare">
+        <button class="btn" type="button" data-toggle="collapse" data-target="#healthcare" role="button" aria-expanded="false" aria-controls="healthcare">
           <img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/news/covid-healthcare.png?raw=true" alt="Healthcare and Treatment">
         </button>
       </div>
@@ -68,7 +68,7 @@ subtitle = ""
 
   </div>
 
-  <div id="contentCollapsible">
+  <div id="contentCollapsible" class="collapse show">
 
     <div class="collapse" id="science" data-parent="#contentCollapsible">
       <div class="row align-items-center justify-content-around">
