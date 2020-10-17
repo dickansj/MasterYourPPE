@@ -47,30 +47,26 @@ subtitle = ""
  css_class = ""
 +++
 
-<div class="container-fluid">
-  <div class="row align-items-center justify-content-around">
-  
-    <div class="content-nav">
-      <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 mb-4">
-        <button class="btn" type="button" data-toggle="collapse" data-target="#science" role="button" aria-expanded="false" aria-controls="science">
-          <img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/news/covid-science.png?raw=true" alt="Coronavirus Science">
-        </button>
-      </div>
-      <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 mb-4">
-        <button class="btn" type="button" data-toggle="collapse" data-target="#healthcare" role="button" aria-expanded="false" aria-controls="healthcare">
-          <img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/news/covid-healthcare.png?raw=true" alt="Healthcare and Treatment">
-        </button>
-      </div>
-      <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 mb-4">
-        <a href="https://covid19.who.int/" target="_blank" alt="WHO Coronavirus Dashboard"><img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/news/who-dashboard.png?raw=true"></a>
-      </div>
-    </div>
+<div class="container-fluid" id="newsCollapsible">
 
+  <div class="row align-items-center justify-content-around">
+    <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 mb-4">
+      <button class="btn" type="button" data-toggle="collapse" data-parent="#newsCollapsible" data-target="#science" role="button" aria-expanded="false" aria-controls="science">
+        <img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/news/covid-science.png?raw=true" alt="Coronavirus Science">
+      </button>
+    </div>
+    <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 mb-4">
+      <button class="btn" type="button" data-toggle="collapse" data-parent="#newsCollapsible" data-target="#healthcare" role="button" aria-expanded="false" aria-controls="healthcare">
+        <img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/news/covid-healthcare.png?raw=true" alt="Healthcare and Treatment">
+      </button>
+    </div>
+    <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 mb-4">
+      <a href="https://covid19.who.int/" target="_blank" alt="WHO Coronavirus Dashboard"><img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/news/who-dashboard.png?raw=true"></a>
+    </div>
   </div>
 
-  <div id="contentCollapsible" class="collapse show">
-
-    <div class="collapse" id="science" data-parent="#contentCollapsible">
+  <div class="accordion-group">
+    <div class="collapse" id="science">
       <div class="row align-items-center justify-content-around">
         <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-8 my-4">
           <div class="card">
@@ -102,39 +98,38 @@ subtitle = ""
         </div>     
       </div>
     </div>
+  </div>
 
-    <div class="collapse" id="healthcare" data-parent="#contentCollapsible">
-      <div class="row align-items-center justify-content-around">
-        <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-8 my-4">
-          <div class="card">
-            <a href="https://www.sciencemag.org/news/2020/09/provocative-results-boost-hopes-antibody-treatment-covid-19" target="_blank">
-              <img class="card-img-top" src="https://www.sciencemag.org/sites/default/files/styles/inline__450w__no_aspect/public/antibody_1280p.jpg?itok=dKd3wFrd">
+  <div class="collapse" id="healthcare">
+    <div class="row align-items-center justify-content-around">
+      <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-8 my-4">
+        <div class="card">
+          <a href="https://www.sciencemag.org/news/2020/09/provocative-results-boost-hopes-antibody-treatment-covid-19" target="_blank">
+            <img class="card-img-top" src="https://www.sciencemag.org/sites/default/files/styles/inline__450w__no_aspect/public/antibody_1280p.jpg?itok=dKd3wFrd">
+          </a>
+          <div class="card-body">
+            <a href="https://elemental.medium.com/a-supercomputer-analyzed-covid-19-and-an-interesting-new-theory-has-emerged-31cb8eba9d63" target="_blank">
+              <h5 class="card-title">‘Provocative Results’ Boost Hopes of Antibody Treatment for COVID-19</h5>
             </a>
-            <div class="card-body">
-              <a href="https://elemental.medium.com/a-supercomputer-analyzed-covid-19-and-an-interesting-new-theory-has-emerged-31cb8eba9d63" target="_blank">
-                <h5 class="card-title">‘Provocative Results’ Boost Hopes of Antibody Treatment for COVID-19</h5>
-              </a>
-              <p class="card-text text-left" style="font-style: italic">Regeneron’s monoclonal antibody cocktail reduces viral load in people infected with SARS-CoV-2</p>
-            </div>
-            <div class="card-footer">
-              <small class="text-muted">Science | Jon Cohen</small>
-            </div>
+            <p class="card-text text-left" style="font-style: italic">Regeneron’s monoclonal antibody cocktail reduces viral load in people infected with SARS-CoV-2</p>
+          </div>
+          <div class="card-footer">
+            <small class="text-muted">Science | Jon Cohen</small>
           </div>
         </div>
       </div>
-      <div class="row align-items-center justify-content-around">
-        <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-8">
-          <div class="card">
-            <div class="card-header">More on Healthcare & Treatment</div>
-            <div class="card-body">
-              <ul><a href="https://coronavirus.jhu.edu/covid-19-basics/understanding-covid-19" target="_blank">Understanding the COVID-19 Pandemic (Public Online Course)</a><small class="text-muted"> | Johns Hopkins University</small></ul>
-              <ul><a href="https://coronavirus.jhu.edu/news" target="_blank">Curated Updates From the Coronavirus Resource Center</a><small class="text-muted"> | Johns Hopkins University</small></ul>
-            </div>
-          </div>
-        </div>     
-      </div>
     </div>
-
-  </div>  
-
+    <div class="row align-items-center justify-content-around">
+      <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-8">
+        <div class="card">
+          <div class="card-header">More on Healthcare & Treatment</div>
+          <div class="card-body">
+            <ul><a href="https://coronavirus.jhu.edu/covid-19-basics/understanding-covid-19" target="_blank">Understanding the COVID-19 Pandemic (Public Online Course)</a><small class="text-muted"> | Johns Hopkins University</small></ul>
+            <ul><a href="https://coronavirus.jhu.edu/news" target="_blank">Curated Updates From the Coronavirus Resource Center</a><small class="text-muted"> | Johns Hopkins University</small></ul>
+          </div>
+        </div>
+      </div>     
+    </div>
+  </div>
+  
 </div>
