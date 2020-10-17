@@ -98,38 +98,39 @@ subtitle = ""
         </div>     
       </div>
     </div>
-  </div>
 
-  <div class="collapse" id="healthcare">
-    <div class="row align-items-center justify-content-around">
-      <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-8 my-4">
-        <div class="card">
-          <a href="https://www.sciencemag.org/news/2020/09/provocative-results-boost-hopes-antibody-treatment-covid-19" target="_blank">
-            <img class="card-img-top" src="https://www.sciencemag.org/sites/default/files/styles/inline__450w__no_aspect/public/antibody_1280p.jpg?itok=dKd3wFrd">
-          </a>
-          <div class="card-body">
-            <a href="https://elemental.medium.com/a-supercomputer-analyzed-covid-19-and-an-interesting-new-theory-has-emerged-31cb8eba9d63" target="_blank">
-              <h5 class="card-title">‘Provocative Results’ Boost Hopes of Antibody Treatment for COVID-19</h5>
+    <div class="collapse" id="healthcare">
+      <div class="row align-items-center justify-content-around">
+        <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-8 my-4">
+          <div class="card">
+            <a href="https://www.sciencemag.org/news/2020/09/provocative-results-boost-hopes-antibody-treatment-covid-19" target="_blank">
+              <img class="card-img-top" src="https://www.sciencemag.org/sites/default/files/styles/inline__450w__no_aspect/public/antibody_1280p.jpg?itok=dKd3wFrd">
             </a>
-            <p class="card-text text-left" style="font-style: italic">Regeneron’s monoclonal antibody cocktail reduces viral load in people infected with SARS-CoV-2</p>
-          </div>
-          <div class="card-footer">
-            <small class="text-muted">Science | Jon Cohen</small>
+            <div class="card-body">
+              <a href="https://elemental.medium.com/a-supercomputer-analyzed-covid-19-and-an-interesting-new-theory-has-emerged-31cb8eba9d63" target="_blank">
+                <h5 class="card-title">‘Provocative Results’ Boost Hopes of Antibody Treatment for COVID-19</h5>
+              </a>
+              <p class="card-text text-left" style="font-style: italic">Regeneron’s monoclonal antibody cocktail reduces viral load in people infected with SARS-CoV-2</p>
+            </div>
+            <div class="card-footer">
+              <small class="text-muted">Science | Jon Cohen</small>
+            </div>
           </div>
         </div>
       </div>
-    </div>
-    <div class="row align-items-center justify-content-around">
-      <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-8">
-        <div class="card">
-          <div class="card-header">More on Healthcare & Treatment</div>
-          <div class="card-body">
-            <ul><a href="https://coronavirus.jhu.edu/covid-19-basics/understanding-covid-19" target="_blank">Understanding the COVID-19 Pandemic (Public Online Course)</a><small class="text-muted"> | Johns Hopkins University</small></ul>
-            <ul><a href="https://coronavirus.jhu.edu/news" target="_blank">Curated Updates From the Coronavirus Resource Center</a><small class="text-muted"> | Johns Hopkins University</small></ul>
+      <div class="row align-items-center justify-content-around">
+        <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-8">
+          <div class="card">
+            <div class="card-header">More on Healthcare & Treatment</div>
+            <div class="card-body">
+              <ul><a href="https://coronavirus.jhu.edu/covid-19-basics/understanding-covid-19" target="_blank">Understanding the COVID-19 Pandemic (Public Online Course)</a><small class="text-muted"> | Johns Hopkins University</small></ul>
+              <ul><a href="https://coronavirus.jhu.edu/news" target="_blank">Curated Updates From the Coronavirus Resource Center</a><small class="text-muted"> | Johns Hopkins University</small></ul>
+            </div>
           </div>
-        </div>
-      </div>     
+        </div>     
+      </div>
     </div>
+
   </div>
   
 </div>
