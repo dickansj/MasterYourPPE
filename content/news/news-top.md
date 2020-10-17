@@ -50,25 +50,25 @@ subtitle = ""
 <div class="container-fluid">
 
   <div class="row align-items-center justify-content-around">
-    <nav class="nav nav-pills justify-content-around">
+    <nav class="nav nav-tabs justify-content-around">
 			<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 mb-4">
-				<a class="nav-link" href="#science" id="science-pill" data-toggle="pill" aria-expanded="false" aria-controls="science">
+				<a class="nav-link" href="#science" id="science-tab" data-toggle="tab" aria-expanded="false" aria-controls="science">
 					<img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/news/covid-science.png?raw=true" alt="Coronavirus Science">
 				</a>
 			</div>
 			<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 mb-4">
-				<a class="nav-link" href="#healthcare" id="healthcare-pill" data-toggle="pill" aria-expanded="false" aria-controls="healthcare">
+				<a class="nav-link" href="#healthcare" id="healthcare-tab" data-toggle="tab" aria-expanded="false" aria-controls="healthcare">
 					<img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/news/covid-healthcare.png?raw=true" alt="Healthcare and Treatment">
 				</a>
 			</div>
 			<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 mb-4">
-				<a href="https://covid19.who.int/" target="_blank" alt="WHO Coronavirus Dashboard"><img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/news/who-dashboard.png?raw=true"></a>
+				<a class="nav-link" href="https://covid19.who.int/" target="_blank" alt="WHO Coronavirus Dashboard"><img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/news/who-dashboard.png?raw=true"></a>
 			</div>
 		</nav>
   </div>
 
-	<div class="tab-content" id="pills-tabContent">
-		<div class="tab-pane" id="science" class="tab-panel" aria-labelledby="science-pill">
+	<div class="tab-content" id="news-tabContent">
+		<div class="tab-pane" id="science" class="tab-panel" aria-labelledby="science-tab">
 			<div class="row align-items-center justify-content-around">
 				<div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-8 my-4">
 					<div class="card">
@@ -101,7 +101,7 @@ subtitle = ""
 			</div>
 		</div>
 
-		<div class="tab-pane" id="healthcare" class="tab-panel" aria-labelledby="science-pill">
+		<div class="tab-pane" id="healthcare" class="tab-panel" aria-labelledby="healthcare-tab">
 			<div class="row align-items-center justify-content-around">
 				<div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-8 my-4">
 					<div class="card">
