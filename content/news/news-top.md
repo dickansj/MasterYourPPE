@@ -47,6 +47,13 @@ subtitle = ""
  css_class = ""
 +++
 
+<script>
+var $myGroup = $('#newsCollapsible');
+$myGroup.on('show.bs.collapse','.collapse', function() {
+    $myGroup.find('.collapse.in').collapse('hide');
+});
+</script>
+
 <div class="container-fluid" id="newsCollapsible">
 
   <div class="row align-items-center justify-content-around">
@@ -65,38 +72,36 @@ subtitle = ""
     </div>
   </div>
 
-  <div class="accordion-group">
-    <div class="collapse" id="science">
-      <div class="row align-items-center justify-content-around">
-        <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-8 my-4">
-          <div class="card">
+  <div class="collapse" id="science">
+    <div class="row align-items-center justify-content-around">
+      <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-8 my-4">
+        <div class="card">
+          <a href="https://elemental.medium.com/a-supercomputer-analyzed-covid-19-and-an-interesting-new-theory-has-emerged-31cb8eba9d63" target="_blank">
+            <img class="card-img-top" src="https://miro.medium.com/max/2190/1*2J1YRGI9VhWVcUlAVXLImA.jpeg">
+          </a>
+          <div class="card-body">
             <a href="https://elemental.medium.com/a-supercomputer-analyzed-covid-19-and-an-interesting-new-theory-has-emerged-31cb8eba9d63" target="_blank">
-              <img class="card-img-top" src="https://miro.medium.com/max/2190/1*2J1YRGI9VhWVcUlAVXLImA.jpeg">
+              <h5 class="card-title">A Supercomputer Analyzed Covid-19 — and an Interesting New Theory Has Emerged</h5>
             </a>
-            <div class="card-body">
-              <a href="https://elemental.medium.com/a-supercomputer-analyzed-covid-19-and-an-interesting-new-theory-has-emerged-31cb8eba9d63" target="_blank">
-                <h5 class="card-title">A Supercomputer Analyzed Covid-19 — and an Interesting New Theory Has Emerged</h5>
-              </a>
-              <p class="card-text text-left" style="font-style: italic">A closer look at the Bradykinin hypothesis.</p>
-            </div>
-            <div class="card-footer">
-              <small class="text-muted">Medium - Thomas Smith</small>
-            </div>
+            <p class="card-text text-left" style="font-style: italic">A closer look at the Bradykinin hypothesis.</p>
+          </div>
+          <div class="card-footer">
+            <small class="text-muted">Medium - Thomas Smith</small>
           </div>
         </div>
       </div>
-      <div class="row align-items-center justify-content-around">
-        <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-8">
-          <div class="card">
-            <div class="card-header">More on the Science of COVID-19</div>
-            <div class="card-body">
-              <ul><a href="https://depts.washington.edu/pandemicalliance/covid-19-literature-report/latest-reports/" target="_blank">COVID-19 Literature Report (Pre-Prints)</a><small class="text-muted"> | Univ. Washington</small></ul>
-              <ul><a href="https://www.nature.com/articles/d41586-020-00502-w" target="_blank">Ongoing Summary of Key COVID-19 Papers</a><small class="text-muted"> | Nature</small></ul>
-              <ul><a href="https://www.sciencemag.org/news/2020/09/hidden-immune-weakness-found-14-gravely-ill-covid-19-patients" target="_blank">Hidden Immune Weakness Found in 14% of Gravely Ill COVID-19 Patients</a><small class="text-muted"> | Science</small></ul>
-            </div>
+    </div>
+    <div class="row align-items-center justify-content-around">
+      <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-8">
+        <div class="card">
+          <div class="card-header">More on the Science of COVID-19</div>
+          <div class="card-body">
+            <ul><a href="https://depts.washington.edu/pandemicalliance/covid-19-literature-report/latest-reports/" target="_blank">COVID-19 Literature Report (Pre-Prints)</a><small class="text-muted"> | Univ. Washington</small></ul>
+            <ul><a href="https://www.nature.com/articles/d41586-020-00502-w" target="_blank">Ongoing Summary of Key COVID-19 Papers</a><small class="text-muted"> | Nature</small></ul>
+            <ul><a href="https://www.sciencemag.org/news/2020/09/hidden-immune-weakness-found-14-gravely-ill-covid-19-patients" target="_blank">Hidden Immune Weakness Found in 14% of Gravely Ill COVID-19 Patients</a><small class="text-muted"> | Science</small></ul>
           </div>
-        </div>     
-      </div>
+        </div>
+      </div>     
     </div>
   </div>
 
