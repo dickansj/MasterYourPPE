@@ -47,12 +47,6 @@ subtitle = ""
  css_class = ""
 +++
 
-<script>
-jQuery('button').click( function(e) {
-    jQuery('.collapse').collapse('hide');
-});
-</script>
-
 <div class="container-fluid" id="newsCollapsible">
 
   <div class="row align-items-center justify-content-around">
