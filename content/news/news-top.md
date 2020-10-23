@@ -116,7 +116,7 @@ subtitle = ""
             <a href="https://www.ashp.org/-/media/8CA43C674C6D4335B6A19852843C4052.ashx" target="_blank">
               <h5 class="card-title">Assessment of Evidence for COVID-19-Related Treatment</h5>
             </a>
-            <p class="card-text text-left" style="font-style: italic">A continually updated summary table of COVID-19 related treatments as well as their use and efficacy.</p>
+            <p class="card-text text-left" style="font-style: italic">A continually updated summary table of COVID-19-related treatments as well as their use and efficacy.</p>
           </div>
           <div class="card-footer">
             <small class="text-muted">Amer. Soc. of Health-System Pharmacists</small>
