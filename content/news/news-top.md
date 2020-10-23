@@ -47,6 +47,8 @@ subtitle = ""
  css_class = ""
 +++
 
+<script type="text/javascript" src="newsCollapse.js"></script> 
+
 <div class="container-fluid" id="newsCollapsible">
 
   <div class="row align-items-center justify-content-around">
