@@ -53,12 +53,12 @@ subtitle = ""
 
   <div class="row align-items-center justify-content-around">
     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 mb-4">
-      <button class="btn" type="button" data-toggle="collapse" data-parent="#newsCollapsible" data-target="#science" role="button" aria-expanded="false" aria-controls="science">
+      <button class="btn" type="button" data-toggle="collapse" data-parent="#newsCollapsible" data-target="#science" role="button" aria-expanded="false" aria-controls="science" onclick="location.href = '#btClick';">
         <img class="img-fluid" style="box-shadow: 0 0.5em 0.75em -0.3em; border-radius: 0.75em" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/news/covid-science.png?raw=true" alt="Coronavirus Science">
       </button>
     </div>
     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 mb-4">
-      <button class="btn" type="button" data-toggle="collapse" data-parent="#newsCollapsible" data-target="#healthcare" role="button" aria-expanded="false" aria-controls="healthcare">
+      <button class="btn" type="button" data-toggle="collapse" data-parent="#newsCollapsible" data-target="#healthcare" role="button" aria-expanded="false" aria-controls="healthcare" onclick="location.href = '#btClick';">
         <img class="img-fluid" style="box-shadow: 0 0.5em 0.75em -0.3em; border-radius: 0.75em" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/news/covid-healthcare.png?raw=true" alt="Healthcare and Treatment">
       </button>
     </div>
@@ -68,6 +68,8 @@ subtitle = ""
       </button>
     </div>
   </div>
+
+  <p><a id="btClick"></a></p>
 
   <div class="collapse" id="science">
     <div class="row align-items-center justify-content-around">
