@@ -1,4 +1,3 @@
-var $myGroup = $('#newsCollapsible');
-$myGroup.on('show.bs.collapse','.collapse', function() {
-    $myGroup.find('.collapse.in').collapse('hide');
+jQuery('button').click( function(e) {
+    jQuery('.collapse').collapse('hide');
 });
