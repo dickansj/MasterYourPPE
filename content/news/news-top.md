@@ -53,12 +53,12 @@ subtitle = ""
 
   <div class="row align-items-center justify-content-around">
     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 mb-4">
-      <button class="btn" type="button" data-toggle="collapse" data-parent="#newsCollapsible" data-target="#science" role="button" aria-expanded="false" aria-controls="science" onclick="location.href = '#btClick';">
+      <button class="btn" type="button" data-toggle="collapse" data-parent="#newsCollapsible" data-target="#science" role="button" aria-expanded="false" aria-controls="science" onclick="location.href = '#articles';">
         <img class="img-fluid" style="box-shadow: 0.4em 0.5em 0.75em -0.3em; border-radius: 1.7em" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/news/covid-science.png?raw=true" alt="Coronavirus Science">
       </button>
     </div>
     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 mb-4">
-      <button class="btn" type="button" data-toggle="collapse" data-parent="#newsCollapsible" data-target="#healthcare" role="button" aria-expanded="false" aria-controls="healthcare" onclick="location.href = '#btClick';">
+      <button class="btn" type="button" data-toggle="collapse" data-parent="#newsCollapsible" data-target="#healthcare" role="button" aria-expanded="false" aria-controls="healthcare" onclick="location.href = '#articles';">
         <img class="img-fluid" style="box-shadow: 0.4em 0.5em 0.75em -0.3em; border-radius: 1.7em" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/news/covid-healthcare.png?raw=true" alt="Healthcare and Treatment">
       </button>
     </div>
@@ -69,23 +69,23 @@ subtitle = ""
     </div>
   </div>
 
-  <p><a id="btClick"></a></p>
+  <p><a id="articles"></a></p>
 
   <div class="collapse" id="science">
     <div class="row align-items-center justify-content-around">
       <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-8 my-4">
         <div class="card">
-          <a href="https://elemental.medium.com/a-supercomputer-analyzed-covid-19-and-an-interesting-new-theory-has-emerged-31cb8eba9d63" target="_blank">
-            <img class="card-img-top" src="https://miro.medium.com/max/2190/1*2J1YRGI9VhWVcUlAVXLImA.jpeg">
+          <a href="https://ashpublications.org/bloodadvances/article/4/20/4990/463793" target="_blank">
+            <img class="card-img-top" src="https://ash.silverchair-cdn.com/ash/content_public/journal/bloodadvances/4/20/10.1182_bloodadvances.2020002657/1/advancesadv2020002657absf1.png?Expires=1606477954&Signature=fe9vKEshOM6vVK8h180P5fgV38b3a4LdJ5oQ6dMUWzAMup6ZkeiEVN9i9ExIyv4EfdYW3fGZiE8J-Z7w5076yL43qjF2VrUMnFuqR5dj2sH3vFO-WkkOS3eFHMJtF2mkIkRnaOFsiPETPkjhIkIknr3BEsAFpJIpT~0nB5-eHJvzUZyHv9niGabjzrSizQGqmX9nd1UR6xF5~AL4TwPInmsBPoKRlc27HKrSd0AqgMdiod9LGqsd7vxJEfAedN-qnHQZLTp4XqCnWqUBttpjSEwmxgCzczVDQJgRxyw013NqsolMHUAZldEFxv18Kvwqe7eomCbpcB~j9Ugpk~A4BA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA">
           </a>
           <div class="card-body">
-            <a href="https://elemental.medium.com/a-supercomputer-analyzed-covid-19-and-an-interesting-new-theory-has-emerged-31cb8eba9d63" target="_blank">
-              <h5 class="card-title">A Supercomputer Analyzed Covid-19 — and an Interesting New Theory Has Emerged</h5>
+            <a href="https://ashpublications.org/bloodadvances/article/4/20/4990/463793" target="_blank">
+              <h5 class="card-title">Reduced Prevalence of SARS-CoV-2 Infection in ABO Blood Group O</h5>
             </a>
-            <p class="card-text text-left" style="font-style: italic">A closer look at the Bradykinin hypothesis.</p>
+            <p class="card-text text-left" style="font-style: italic">Blood group O is associated with a decreased risk for contracting SARS-CoV-2 infection.</p>
           </div>
           <div class="card-footer">
-            <small class="text-muted">Medium - Thomas Smith</small>
+            <small class="text-muted">Blood Advances</small>
           </div>
         </div>
       </div>
@@ -95,6 +95,7 @@ subtitle = ""
         <div class="card">
           <div class="card-header">More on the Science of COVID-19</div>
           <div class="card-body">
+            <ul><a href="https://elemental.medium.com/a-supercomputer-analyzed-covid-19-and-an-interesting-new-theory-has-emerged-31cb8eba9d63" target="_blank">A Supercomputer Analyzed Covid-19 — and an Interesting New Theory Has Emerged</a><small class="text-muted"> | Medium</small></ul>
             <ul><a href="https://depts.washington.edu/pandemicalliance/covid-19-literature-report/latest-reports/" target="_blank">COVID-19 Literature Report (Pre-Prints)</a><small class="text-muted"> | Univ. Washington</small></ul>
             <ul><a href="https://www.nature.com/articles/d41586-020-00502-w" target="_blank">Ongoing Summary of Key COVID-19 Papers</a><small class="text-muted"> | Nature</small></ul>
             <ul><a href="https://www.sciencemag.org/news/2020/09/hidden-immune-weakness-found-14-gravely-ill-covid-19-patients" target="_blank">Hidden Immune Weakness Found in 14% of Gravely Ill COVID-19 Patients</a><small class="text-muted"> | Science</small></ul>
@@ -112,7 +113,7 @@ subtitle = ""
             <img class="card-img-top" src="https://www.sciencemag.org/sites/default/files/styles/inline__450w__no_aspect/public/antibody_1280p.jpg?itok=dKd3wFrd">
           </a>
           <div class="card-body">
-            <a href="https://elemental.medium.com/a-supercomputer-analyzed-covid-19-and-an-interesting-new-theory-has-emerged-31cb8eba9d63" target="_blank">
+            <a href="https://www.sciencemag.org/news/2020/09/provocative-results-boost-hopes-antibody-treatment-covid-19" target="_blank">
               <h5 class="card-title">‘Provocative Results’ Boost Hopes of Antibody Treatment for COVID-19</h5>
             </a>
             <p class="card-text text-left" style="font-style: italic">Regeneron’s monoclonal antibody cocktail reduces viral load in people infected with SARS-CoV-2</p>
@@ -128,6 +129,7 @@ subtitle = ""
         <div class="card">
           <div class="card-header">More on Healthcare & Treatment</div>
           <div class="card-body">
+            <ul><a href="https://www.sciencemag.org/news/2020/09/provocative-results-boost-hopes-antibody-treatment-covid-19" target="_blank">Regeneron’s ‘Provocative Results’ Boost Hopes of Antibody Treatment for COVID-19</a><small class="text-muted"> | Science</small></ul>
             <ul><a href="https://coronavirus.jhu.edu/covid-19-basics/understanding-covid-19" target="_blank">Understanding the COVID-19 Pandemic (Public Online Course)</a><small class="text-muted"> | Johns Hopkins University</small></ul>
             <ul><a href="https://coronavirus.jhu.edu/news" target="_blank">Curated Updates From the Coronavirus Resource Center</a><small class="text-muted"> | Johns Hopkins University</small></ul>
           </div>
