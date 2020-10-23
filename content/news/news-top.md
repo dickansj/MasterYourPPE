@@ -47,7 +47,7 @@ subtitle = ""
  css_class = ""
 +++
 
-<script type="text/javascript" src="https://raw.githubusercontent.com/dickansj/MasterYourPPE/master/assets/js/newsCollapse.js"></script>
+<script src="https://raw.githubusercontent.com/dickansj/MasterYourPPE/master/assets/js/newsCollapse.js"></script>
 
 <div class="container-fluid" id="newsCollapsible">
 
