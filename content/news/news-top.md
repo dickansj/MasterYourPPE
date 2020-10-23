@@ -47,7 +47,9 @@ subtitle = ""
  css_class = ""
 +++
 
+<head>
 <script type="text/javascript" src="newsCollapse.js"></script> 
+</head>
 
 <div class="container-fluid" id="newsCollapsible">
 
