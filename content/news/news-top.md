@@ -82,10 +82,10 @@ subtitle = ""
             <a href="https://ashpublications.org/bloodadvances/article/4/20/4990/463793" target="_blank">
               <h5 class="card-title">Reduced Prevalence of SARS-CoV-2 Infection in ABO Blood Group O</h5>
             </a>
-            <p class="card-text text-left" style="font-style: italic">Blood group O is associated with a decreased risk for contracting SARS-CoV-2 infection.</p>
+            <p class="card-text text-left" style="font-style: italic">Blood group O is associated with a decreased risk for contracting infection by the SARS-CoV-2 coronavirus.</p>
           </div>
           <div class="card-footer">
-            <small class="text-muted">Blood Advances</small>
+            <small class="text-muted">Blood Advances | Barnkob et al.</small>
           </div>
         </div>
       </div>
@@ -109,17 +109,17 @@ subtitle = ""
     <div class="row align-items-center justify-content-around">
       <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-8 my-4">
         <div class="card">
-          <a href="https://www.sciencemag.org/news/2020/09/provocative-results-boost-hopes-antibody-treatment-covid-19" target="_blank">
-            <img class="card-img-top" src="https://www.sciencemag.org/sites/default/files/styles/inline__450w__no_aspect/public/antibody_1280p.jpg?itok=dKd3wFrd">
+          <a href="https://www.ashp.org/-/media/8CA43C674C6D4335B6A19852843C4052.ashx" target="_blank">
+            <img class="card-img-top" src="https://www.ashp.org/-/media/assets/pharmacy-practice/resource-centers/Coronavirus/images/microsite/hero-1-microsite-883x441.ashx?h=441&w=883&la=en&hash=2EC9850512B045FEDC7DECEF361C9195A2EF8709">
           </a>
           <div class="card-body">
-            <a href="https://www.sciencemag.org/news/2020/09/provocative-results-boost-hopes-antibody-treatment-covid-19" target="_blank">
-              <h5 class="card-title">‘Provocative Results’ Boost Hopes of Antibody Treatment for COVID-19</h5>
+            <a href="https://www.ashp.org/-/media/8CA43C674C6D4335B6A19852843C4052.ashx" target="_blank">
+              <h5 class="card-title">Assessment of Evidence for COVID-19-Related Treatment</h5>
             </a>
-            <p class="card-text text-left" style="font-style: italic">Regeneron’s monoclonal antibody cocktail reduces viral load in people infected with SARS-CoV-2</p>
+            <p class="card-text text-left" style="font-style: italic">A continually updated summary table of COVID-19 related treatments as well as their use and efficacy.</p>
           </div>
           <div class="card-footer">
-            <small class="text-muted">Science | Jon Cohen</small>
+            <small class="text-muted">Amer. Soc. of Health-System Pharmacists</small>
           </div>
         </div>
       </div>
