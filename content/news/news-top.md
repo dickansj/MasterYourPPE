@@ -51,19 +51,19 @@ subtitle = ""
 
 <div class="container-fluid" id="newsCollapsible">
 
-  <div class="row align-items-center px-0" style="justify-content: space-evenly; min-width: 0; min-height: 0; width: 0">
+  <div class="row align-items-center px-0" style="justify-content: space-evenly; min-width: 0; min-height: 0">
     <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 col-xl-3 mb-4 px-0" style="min-width: 0; min-height: 0">
-      <button class="btn" type="button" data-toggle="collapse" data-parent="#newsCollapsible" data-target="#science" role="button" aria-expanded="false" aria-controls="science" onclick="location.href = '#articles';">
+      <button class="btn" type="button" style="width: 0" data-toggle="collapse" data-parent="#newsCollapsible" data-target="#science" role="button" aria-expanded="false" aria-controls="science" onclick="location.href = '#articles';">
         <img class="img-fluid" style="box-shadow: 0.4em 0.5em 0.75em -0.3em; border-radius: 1.7em" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/news/covid-science.png?raw=true" alt="Coronavirus Science">
       </button>
     </div>
-    <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 col-xl-3 mb-4 px-0" style="min-width: 0; min-height: 0; width: 0">
-      <button class="btn" type="button" data-toggle="collapse" data-parent="#newsCollapsible" data-target="#healthcare" role="button" aria-expanded="false" aria-controls="healthcare" onclick="location.href = '#articles';">
+    <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 col-xl-3 mb-4 px-0" style="min-width: 0; min-height: 0">
+      <button class="btn" type="button" style="width: 0" data-toggle="collapse" data-parent="#newsCollapsible" data-target="#healthcare" role="button" aria-expanded="false" aria-controls="healthcare" onclick="location.href = '#articles';">
         <img class="img-fluid" style="box-shadow: 0.4em 0.5em 0.75em -0.3em; border-radius: 1.7em" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/news/covid-healthcare.png?raw=true" alt="Healthcare and Treatment">
       </button>
     </div>
-    <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 col-xl-3 mb-4 px-0" style="min-width: 0; min-height: 0; width: 0">
-      <button class="btn" type="button" onclick="window.open('https://covid19.who.int/','_blank');">
+    <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 col-xl-3 mb-4 px-0" style="min-width: 0; min-height: 0">
+      <button class="btn" type="button" style="width: 0" onclick="window.open('https://covid19.who.int/','_blank');">
         <img class="img-fluid" style="box-shadow: 0.4em 0.5em 0.75em -0.3em; border-radius: 1.7em" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/news/who-dashboard.png?raw=true alt="WHO Coronavirus Dashboard">
       </button>
     </div>
