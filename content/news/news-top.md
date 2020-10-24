@@ -51,7 +51,7 @@ subtitle = ""
 
 <div class="container-fluid" id="newsCollapsible">
 
-  <div class="row align-items-center px-0" style="justify-content: space-evenly">
+  <div class="row align-items-center px-0" style="justify-content: space-evenly; min-width: 0">
     <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 col-xl-3 mb-4 px-0" style="min-width: 0">
       <button class="btn" type="button" data-toggle="collapse" data-parent="#newsCollapsible" data-target="#science" role="button" aria-expanded="false" aria-controls="science" onclick="location.href = '#articles';">
         <img class="img-fluid" style="box-shadow: 0.4em 0.5em 0.75em -0.3em; border-radius: 1.7em" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/news/covid-science.png?raw=true" alt="Coronavirus Science">
