@@ -71,6 +71,8 @@ subtitle = ""
       <p class="text-left">Smaller droplets range in size from about 0.5mm down to 0.001mm and can <b><a href="https://economictimes.indiatimes.com/news/science/coronavirus-can-travel-up-to-8-metres-from-exhalation-linger-in-air-for-hours-mit-scientist-says/articleshow/74928356.cms?from=mdr" target="_blank">remain suspended in air for hours.</a></b> These can also travel long distances on air currents.  In still air, small droplets can accumulate in the area where they are being generated until the area becomes highly infectious.</p>
       <p class="text-left">And, to help lower the risk of Covid-19 transmission further, see these mask-wearing <b><a href="https://www.masteryourppe.com/tips">tips and tricks</a></b>.</p>
     </div>
-  </div> 
+  </div>
+  
+  <a id="contact"></a>
 
 </div>
