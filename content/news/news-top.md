@@ -49,7 +49,7 @@ subtitle = ""
 
 <script src="https://raw.githubusercontent.com/dickansj/MasterYourPPE/master/assets/js/newsCollapse.js"></script>
 
-<div class="container-fluid" id="newsCollapsible">
+<div class="container-fluid" id="newsCollapsible" style="min-width: 0; min-height: 0">
 
   <div class="row align-items-center px-0" style="justify-content: space-evenly; min-width: 0; min-height: 0">
     <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 col-xl-3 mb-4 px-0" style="min-width: 0; min-height: 0">
