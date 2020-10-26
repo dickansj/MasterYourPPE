@@ -8,8 +8,6 @@ weight = 130  # Order that this section will appear.
 title = "Join the conversation!"
 subtitle = "Share your feedback, questions, or PPE resources."
 
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://www.masteryourppe.com/#contact)
-
 # Automatically link email and phone?
 autolink = true
 
@@ -20,3 +18,4 @@ autolink = true
 email_form = 1
 +++
 
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://www.masteryourppe.com/#contact)
