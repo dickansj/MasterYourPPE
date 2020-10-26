@@ -18,4 +18,4 @@ autolink = true
 email_form = 1
 +++
 
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://www.masteryourppe.com/#contact)
+
