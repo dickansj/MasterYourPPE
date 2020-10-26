@@ -75,7 +75,7 @@ subtitle = ""
     <div class="row align-items-center justify-content-around">
       <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-8 my-4">
         <div class="card">
-          <div class="card-header" style="font-weight: bold; text-align: center">Science of COVID-19</div>
+          <div class="card-header lead" style="font-weight: bold; text-align: center">Science of COVID-19</div>
           <a href="https://ashpublications.org/bloodadvances/article/4/20/4990/463793" target="_blank">
             <img class="card-img-top" src="https://ash.silverchair-cdn.com/ash/content_public/journal/bloodadvances/4/20/10.1182_bloodadvances.2020002657/1/advancesadv2020002657absf1.png?Expires=1606477954&Signature=fe9vKEshOM6vVK8h180P5fgV38b3a4LdJ5oQ6dMUWzAMup6ZkeiEVN9i9ExIyv4EfdYW3fGZiE8J-Z7w5076yL43qjF2VrUMnFuqR5dj2sH3vFO-WkkOS3eFHMJtF2mkIkRnaOFsiPETPkjhIkIknr3BEsAFpJIpT~0nB5-eHJvzUZyHv9niGabjzrSizQGqmX9nd1UR6xF5~AL4TwPInmsBPoKRlc27HKrSd0AqgMdiod9LGqsd7vxJEfAedN-qnHQZLTp4XqCnWqUBttpjSEwmxgCzczVDQJgRxyw013NqsolMHUAZldEFxv18Kvwqe7eomCbpcB~j9Ugpk~A4BA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA">
           </a>
