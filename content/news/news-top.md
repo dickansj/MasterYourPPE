@@ -94,7 +94,7 @@ subtitle = ""
     <div class="row align-items-center justify-content-around">
       <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-8">
         <div class="card">
-          <div class="card-header" style="text-align: center">More on the Science of COVID-19</div>
+          <div class="card-header" style="font-weight: bold; text-align: center">More on the Science of COVID-19</div>
           <div class="card-body">
             <ul><a href="https://elemental.medium.com/a-supercomputer-analyzed-covid-19-and-an-interesting-new-theory-has-emerged-31cb8eba9d63" target="_blank">A Supercomputer Analyzed Covid-19 — and an Interesting New Theory Has Emerged</a><small class="text-muted"> | Medium</small></ul>
             <ul><a href="https://depts.washington.edu/pandemicalliance/covid-19-literature-report/latest-reports/" target="_blank">COVID-19 Literature Report (Pre-Prints)</a><small class="text-muted"> | Univ. Washington</small></ul>
@@ -129,7 +129,7 @@ subtitle = ""
     <div class="row align-items-center justify-content-around">
       <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-8">
         <div class="card">
-          <div class="card-header" style="text-align: center">More on Healthcare & Treatment</div>
+          <div class="card-header" style="font-weight: bold; text-align: center">More on Healthcare & Treatment</div>
           <div class="card-body">
             <ul><a href="https://www.sciencemag.org/news/2020/09/provocative-results-boost-hopes-antibody-treatment-covid-19" target="_blank">Regeneron’s ‘Provocative Results’ Boost Hopes of Antibody Treatment for COVID-19</a><small class="text-muted"> | Science</small></ul>
             <ul><a href="https://coronavirus.jhu.edu/covid-19-basics/understanding-covid-19" target="_blank">Understanding the COVID-19 Pandemic (Public Online Course)</a><small class="text-muted"> | Johns Hopkins University</small></ul>
