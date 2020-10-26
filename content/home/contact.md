@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 130  # Order that this section will appear.
 
 title = "Join the conversation!"
-subtitle = ""
+subtitle = "Share your feedback, questions, or PPE resources."
 
 # Automatically link email and phone?
 autolink = true
