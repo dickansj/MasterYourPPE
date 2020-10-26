@@ -110,7 +110,7 @@ subtitle = ""
     <div class="row align-items-center justify-content-around">
       <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-8 my-4">
         <div class="card">
-          <div class="card-header" style="font-weight: bold; text-align: center">Healthcare & Treatment</div>
+          <div class="card-header lead" style="font-weight: bold; text-align: center">Healthcare & Treatment</div>
           <a href="https://www.ashp.org/-/media/8CA43C674C6D4335B6A19852843C4052.ashx" target="_blank">
             <img class="card-img-top" src="https://www.ashp.org/-/media/assets/pharmacy-practice/resource-centers/Coronavirus/images/microsite/hero-1-microsite-883x441.ashx?h=441&w=883&la=en&hash=2EC9850512B045FEDC7DECEF361C9195A2EF8709">
           </a>
