@@ -1,7 +1,7 @@
 ![Master Your PPE favicon](https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/MYP-new.png)
 
 # Master Your PPE
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dickansj/MasterYourPPE/issues) [![Netlify Status](https://api.netlify.com/api/v1/badges/1a542d0d-b04b-4aba-8f0d-5785aba0d5b9/deploy-status)](https://app.netlify.com/sites/masteryourppe/deploys)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://www.masteryourppe.com/#contact) [![Netlify Status](https://api.netlify.com/api/v1/badges/1a542d0d-b04b-4aba-8f0d-5785aba0d5b9/deploy-status)](https://app.netlify.com/sites/masteryourppe/deploys)
 
 > This repository contains resources for [MasterYourPPE](https://MasterYourPPE.com/), a design project aimed at developing and sharing simple, scalable solutions for better personal protective equipment (PPE). It is built using the [Academic theme](https://sourcethemes.com/academic/) for [Hugo](https://gohugo.io/) and deployed on [Netlify](https://www.netlify.com/).
 
