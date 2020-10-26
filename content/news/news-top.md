@@ -71,10 +71,11 @@ subtitle = ""
 
   <p><a id="articles"></a></p>
 
-  <div class="collapse" id="science">
+  <div class="collapse show" id="science">
     <div class="row align-items-center justify-content-around">
       <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-8 my-4">
         <div class="card">
+          <h5 class="card-header">Science of COVID-19</h5>
           <a href="https://ashpublications.org/bloodadvances/article/4/20/4990/463793" target="_blank">
             <img class="card-img-top" src="https://ash.silverchair-cdn.com/ash/content_public/journal/bloodadvances/4/20/10.1182_bloodadvances.2020002657/1/advancesadv2020002657absf1.png?Expires=1606477954&Signature=fe9vKEshOM6vVK8h180P5fgV38b3a4LdJ5oQ6dMUWzAMup6ZkeiEVN9i9ExIyv4EfdYW3fGZiE8J-Z7w5076yL43qjF2VrUMnFuqR5dj2sH3vFO-WkkOS3eFHMJtF2mkIkRnaOFsiPETPkjhIkIknr3BEsAFpJIpT~0nB5-eHJvzUZyHv9niGabjzrSizQGqmX9nd1UR6xF5~AL4TwPInmsBPoKRlc27HKrSd0AqgMdiod9LGqsd7vxJEfAedN-qnHQZLTp4XqCnWqUBttpjSEwmxgCzczVDQJgRxyw013NqsolMHUAZldEFxv18Kvwqe7eomCbpcB~j9Ugpk~A4BA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA">
           </a>
@@ -109,6 +110,7 @@ subtitle = ""
     <div class="row align-items-center justify-content-around">
       <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-8 my-4">
         <div class="card">
+          <h5 class="card-header">Healthcare & Treatment</h5>
           <a href="https://www.ashp.org/-/media/8CA43C674C6D4335B6A19852843C4052.ashx" target="_blank">
             <img class="card-img-top" src="https://www.ashp.org/-/media/assets/pharmacy-practice/resource-centers/Coronavirus/images/microsite/hero-1-microsite-883x441.ashx?h=441&w=883&la=en&hash=2EC9850512B045FEDC7DECEF361C9195A2EF8709">
           </a>
