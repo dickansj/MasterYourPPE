@@ -62,7 +62,7 @@ subtitle = ""
   <div class="row align-items-center my-4">
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
       <h3>Why?</h3>
-      <p class="text-left">Because we all have to do our part to protect each other.<b><a href="https://www.cdc.gov/coronavirus/2019-ncov/index.html" target="_blank">Covid-19</a></b> is still here and it’s still dangerous to you and to those you care about. And because we all want Covid-19 to go away so we can get back to everything we love to do.</p>
+      <p class="text-left">Because we all have to do our part to protect each other. <b><a href="https://www.cdc.gov/coronavirus/2019-ncov/index.html" target="_blank">Covid-19</a></b> is still here and it’s still dangerous to you and to those you care about. And because we all want Covid-19 to go away so we can get back to everything we love to do.</p>
     </div>
     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-3">
       <img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/home/MaskFrameStef24.png?raw=true" alt="A face mask and mask frame are simple, effective PPE">
