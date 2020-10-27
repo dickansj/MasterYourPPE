@@ -109,16 +109,6 @@ subtitle = ""
   </div>
   <div class="row align-items-center">
     <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 col-xl-8">
-      <h4>Add a mask frame.</h4>
-      <p class="text-left">Easily enhance the effectiveness of your face covering by making a mask frame.  Your personalized mask frame will help to seal the air leaks around your face to stop airborne droplets from passing through.  See <b><a href="https://youtu.be/KZgRVWYM7rY" target="_blank">this</a></b> quick how-to video and <b><a href="https://github.com/dickansj/MasterYourPPE/wiki/Improve-Your-Mask-With-a-Frame" target="_blank">print</a></b> a mask frame template with instructions.</p>
-      <p class="text-left">You should know that wearing a well-fitting mask for a long time may cause shortness of breath, especially if you are relaxed and breathing shallow.  The solution is to take a few deep breaths while keeping the mask on.  This will help to bring in more fresh air.</p>
-    </div>
-    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 order-xs-last order-sm-last order-md-first order-lg-first order-xl-first my-4">
-     <img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/tips/mask-vid-overlay.png?raw=true" alt="Add a mask frame>
-    </div>
-  </div> 
-  <div class="row align-items-center">
-    <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 col-xl-8">
       <h4>Completely dried out.</h4>
       <p class="text-left">It’s possible to reuse your surgical mask many times over if it’s had a chance to dry out completely.</p>
       <p class="text-left">Setup an easy mask-rotation program:  First, write numbers on the inside edge on four masks.  Wear the first mask on day 1 then hang it to dry out.  Wear the second mask on day 2 and so on.  When day 5 comes, you can wear the first mask again knowing it has dried out completely.</p>
