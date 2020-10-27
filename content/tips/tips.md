@@ -114,7 +114,7 @@ subtitle = ""
       <p class="text-left">You should know that wearing a well-fitting mask for a long time may cause shortness of breath, especially if you are relaxed and breathing shallow.  The solution is to take a few deep breaths while keeping the mask on.  This will help to bring in more fresh air.</p>
     </div>
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 order-xs-last order-sm-last order-md-first order-lg-first order-xl-first my-4">
-      <img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/tips/mask-vid-overlay.png?raw=true" onclick="window.open('https://youtu.be/KZgRVWYM7rY','_blank');" role="button" alt="Add a mask frame">
+      <img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/tips/mask-vid-overlay.png?raw=true" onclick="window.open('https://youtu.be/KZgRVWYM7rY','_blank');" role="button" style="cursor:pointer" alt="Add a mask frame">
     </div>
   </div>
   <div class="row align-items-center">
