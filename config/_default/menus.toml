@@ -8,26 +8,20 @@
   url = "#why"
   weight = 10
 
-
-[[main]]
-  name = "What You Can Do"
-  url = "/action"
-  weight = 20
-
 [[main]]
   name = "Tips & Tricks"
   url = "/tips"
-  weight = 30
+  weight = 20
 
  [[main]]
    name = "PPE Performance"
    url = "/testing"
-   weight = 40
+   weight = 30
 
  [[main]]
    name = "News & Science"
    url = "/news"
-   weight = 45
+   weight = 40
 
  [[main]]
    name = "About Us"

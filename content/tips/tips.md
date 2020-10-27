@@ -55,13 +55,28 @@ subtitle = ""
 
 <div class="container-fluid">
   <div class="row">
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 text-center">
+      <h3>What PPE should I wear?</h3>
+    </div>
+  </div> 
+  <div class="row">
     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
-      <h3>How to wear a surgical mask:</h3>
+      <p class="text-left">After <b><a href="https://www.masteryourppe.com/testing" target="_blank">testing the filtering efficiency</a></b> of several face masks and common materials used for face coverings, we find that 3-layer disposable masks are very effective at trapping potentially infections airborne droplets. These common mask types are sold at neighborhood drug stores and most hardware stores.  Specifically, look for 3-layer masks (aka surgical masks). And remember to always carry two masks with you: one to wear and one as a spare, in your car, your bag, or your pocket.</p>
+    </div>
+  </div> 
+  <div class="row">
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 text-center">
+      <h3>How do I properly wear a surgical mask?</h3>
     </div>
   </div> 
   <div class="row">
     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
       <p class="text-left">Wearing a surgical mask correctly may not be obvious.  There are basically <b>two things</b> you must do (in addition to actually wearing the mask on your face, not on your head or under your chin) when in a public setting.  First, pull open the pleats so that the mask covers your chin completely.  Second, bend the nose clip wire down onto your face to customize the fit and seal of the mask.</p>
+    </div>
+  </div>
+  <div class="row my-4">
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 text-center">
+      <h3>What else can I do?</h3>
     </div>
   </div>
   <div class="row align-items-center">
@@ -91,6 +106,16 @@ subtitle = ""
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 order-xs-last order-sm-last order-md-first order-lg-first order-xl-first my-4">
       <img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/tips/masktied.jpeg?raw=true" alt="Make your mask time more comfortable">
     </div>
+  </div>
+  <div class="row align-items-center">
+    <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 col-xl-8">
+      <h3>Add a mask frame.</h3>
+      <p class="text-left">Easily enhance the effectiveness of your face covering by making a mask frame.  Your personalized mask frame will help to seal the air leaks around your face to stop airborne droplets from passing through.  See <b><a href="https://youtu.be/KZgRVWYM7rY" target="_blank">this</a></b> quick how-to video and <b><a href="https://github.com/dickansj/MasterYourPPE/wiki/Improve-Your-Mask-With-a-Frame" target="_blank">print</a></b> a mask frame template with instructions.</p>
+      <p class="text-left">You should know that wearing a well-fitting mask for a long time may cause shortness of breath, especially if you are relaxed and breathing shallow.  The solution is to take a few deep breaths while keeping the mask on.  This will help to bring in more fresh air.</p>
+    </div>
+    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 order-xs-last order-sm-last order-md-first order-lg-first order-xl-first my-4">
+      <a href="https://youtu.be/KZgRVWYM7rY" target="_blank"><img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/tips/mask-vid-overlay.png?raw=true" alt="Add a mask frame></a>
+    </div>
   </div> 
   <div class="row align-items-center">
     <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 col-xl-8">
@@ -112,6 +137,16 @@ subtitle = ""
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 order-xs-last order-sm-last order-md-first order-lg-first order-xl-first my-4">
       <img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/tips/sneeze.png?raw=true" alt="Catch your sneeze">
     </div>
+  </div>
+  <div class="row align-items-center">
+    <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 col-xl-8">
+      <h3>Add a face shield.</h3>
+      <p class="text-left">You can make or buy a face shield to wear in conjunction with your face covering for a substantial boost to the effectiveness of just wearing a mask alone.</p>
+    </div>
+    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 order-xs-last order-sm-last order-md-first order-lg-first order-xl-first my-4">
+      <img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/tips/dutton-shield1.png?raw=true" alt="Add a face shield">
+    </div>
   </div> 
+ 
 
 </div>
