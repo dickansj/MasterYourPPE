@@ -73,6 +73,5 @@ subtitle = ""
     </div>
   </div>
   
-  <a id="contact"></a>
 
 </div>
