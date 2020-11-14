@@ -142,6 +142,7 @@ subtitle = ""
     <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 col-xl-8">
       <h4>Add a face shield.</h4>
       <p class="text-left">You can make or buy a face shield to wear in conjunction with your face covering for a substantial boost to the effectiveness of just wearing a mask alone.</p>
+      <p class="text-left">By wearing a face shield or goggles with your face mask, you can better guard your eyes from larger droplets, which you will more likely encounter when you are within 6 feet of others. CDC <a href="https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cloth-face-cover-guidance.html" target="_blank"><b>does not recommend</b></a> using a face shield as a mask <b>substitute</b> because shields typically leave large gaps for droplets around your face. If you have a reusable face shield, you can clean it by following CDC guidelines at the bottom of <a href="https://www.cdc.gov/coronavirus/2019-ncov/hcp/ppe-strategy/eye-protection.html#anchor_1605043382236" target="_blank"><b>this page</b></a>.</p>
     </div>
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 order-xs-last order-sm-last order-md-first order-lg-first order-xl-first my-4">
       <img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/tips/dutton-shield1.png?raw=true" alt="Add a face shield">
