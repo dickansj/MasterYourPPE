@@ -76,17 +76,17 @@ subtitle = ""
       <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-8 my-4">
         <div class="card">
           <div class="card-header lead" style="font-weight: bold; text-align: center">Science of COVID-19</div>
-          <a href="https://ashpublications.org/bloodadvances/article/4/20/4990/463793" target="_blank">
-            <img class="card-img-top" src="https://ash.silverchair-cdn.com/ash/content_public/journal/bloodadvances/4/20/10.1182_bloodadvances.2020002657/1/advancesadv2020002657absf1.png?Expires=1606477954&Signature=fe9vKEshOM6vVK8h180P5fgV38b3a4LdJ5oQ6dMUWzAMup6ZkeiEVN9i9ExIyv4EfdYW3fGZiE8J-Z7w5076yL43qjF2VrUMnFuqR5dj2sH3vFO-WkkOS3eFHMJtF2mkIkRnaOFsiPETPkjhIkIknr3BEsAFpJIpT~0nB5-eHJvzUZyHv9niGabjzrSizQGqmX9nd1UR6xF5~AL4TwPInmsBPoKRlc27HKrSd0AqgMdiod9LGqsd7vxJEfAedN-qnHQZLTp4XqCnWqUBttpjSEwmxgCzczVDQJgRxyw013NqsolMHUAZldEFxv18Kvwqe7eomCbpcB~j9Ugpk~A4BA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA">
+          <a href="https://english.elpais.com/society/2020-10-28/a-room-a-bar-and-a-class-how-the-coronavirus-is-spread-through-the-air.html" target="_blank">
+            <img class="card-img-top" src="https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fimages.english.elpais.com%2Fresizer%2Fx-hz1xPUWBrEeF27IM9sY-KKVuM%3D%2F1000x0%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Fprisa%2FCGIPMBM72JE6TGM7MHAEGQ3QN4.png">
           </a>
           <div class="card-body">
-            <a href="https://ashpublications.org/bloodadvances/article/4/20/4990/463793" target="_blank">
-              <h5 class="card-title">Reduced Prevalence of SARS-CoV-2 Infection in ABO Blood Group O</h5>
+            <a href="https://english.elpais.com/society/2020-10-28/a-room-a-bar-and-a-class-how-the-coronavirus-is-spread-through-the-air.html" target="_blank">
+              <h5 class="card-title">A Room, a Bar and a Classroom: How the Coronavirus Is Spread Through the Air</h5>
             </a>
-            <p class="card-text text-left" style="font-style: italic">Blood group O is associated with a decreased risk for contracting infection by the SARS-CoV-2 coronavirus.</p>
+            <p class="card-text text-left" style="font-style: italic">The risk of contagion is highest in indoor spaces but can be reduced by applying all available measures to combat infection via aerosols. Here is an overview of the likelihood of infection in three everyday scenarios, based on the safety measures used and the length of exposure.</p>
           </div>
           <div class="card-footer">
-            <small class="text-muted">Blood Advances | Barnkob et al.</small>
+            <small class="text-muted">El Pais| Mariano Zafra and Javier Salas</small>
           </div>
         </div>
       </div>
@@ -97,6 +97,8 @@ subtitle = ""
           <div class="card-header" style="font-weight: bold; text-align: center">More on the Science of COVID-19</div>
           <div class="card-body">
             <p><a href="https://www.masteryourppe.com/#contact"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" class="mx-auto d-block"></a></p>
+            <ul><a href="https://amp.cnn.com/cnn/2020/10/30/health/household-spread-covid-19-wellness/index.html" target="_blank">Household Spread of COVID-19 Is Common and Quick, a New CDC Study Finds</a><small class="text-muted"> | CNN</small></ul>
+            <ul><a href="https://ashpublications.org/bloodadvances/article/4/20/4990/463793" target="_blank">Reduced Prevalence of SARS-CoV-2 Infection in ABO Blood Group O</a><small class="text-muted"> | Blood Advances</small></ul>
             <ul><a href="https://elemental.medium.com/a-supercomputer-analyzed-covid-19-and-an-interesting-new-theory-has-emerged-31cb8eba9d63" target="_blank">A Supercomputer Analyzed Covid-19 — and an Interesting New Theory Has Emerged</a><small class="text-muted"> | Medium</small></ul>
             <ul><a href="https://depts.washington.edu/pandemicalliance/covid-19-literature-report/latest-reports/" target="_blank">COVID-19 Literature Report (Pre-Prints)</a><small class="text-muted"> | Univ. Washington</small></ul>
             <ul><a href="https://www.nature.com/articles/d41586-020-00502-w" target="_blank">Ongoing Summary of Key COVID-19 Papers</a><small class="text-muted"> | Nature</small></ul>
