@@ -12,7 +12,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 aliases = [
-  "/action/"
+  "https://www.masteryourppe.com/action/"
 ]
 
 title = ""
