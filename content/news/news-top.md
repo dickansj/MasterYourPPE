@@ -76,17 +76,17 @@ subtitle = ""
       <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-8 my-4">
         <div class="card">
           <div class="card-header lead" style="font-weight: bold; text-align: center">Science of COVID-19</div>
-          <a href="https://english.elpais.com/society/2020-10-28/a-room-a-bar-and-a-class-how-the-coronavirus-is-spread-through-the-air.html" target="_blank">
-            <img class="card-img-top" src="https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fimages.english.elpais.com%2Fresizer%2Fx-hz1xPUWBrEeF27IM9sY-KKVuM%3D%2F1000x0%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Fprisa%2FCGIPMBM72JE6TGM7MHAEGQ3QN4.png">
+          <a href="https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2773576" target="_blank">
+            <img class="card-img-top" src="https://cdn.jamanetwork.com/ama/content_public/journal/intemed/0/ioi200107f1_1606151044.56634.png?Expires=2147483647&Signature=YTLOWXHTgdfP7xO4DEK8AgV-5ULY--PqaNlabv1J4vbNNGg-xtgEbAJd7yM54CBXcSyvyARyqDbq3l~mDej1K9TiTpSkL7vKU18REQ7KjCUyYSzPBM64P8dWgC~~~1auuv4IkzqXQK-3cXRbxSbUMjZ7ZWiD8i4Ebof7-izZmNn3KzD9zvBkncbOw9GuuYCKLAItybc8sYFgZAR~kI84LPcXqxBWXiYisjnqogH6MTRqTN~NliGRuBH0dlxHhychBOQiAq0K5EmfU6OQNklEs3AXtZz9HDVoEwNg5fKJROSjBz893aQeZzre4zVW~rH6D2~JfrnwoNHrGdM~A9AJjQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA">
           </a>
           <div class="card-body">
-            <a href="https://english.elpais.com/society/2020-10-28/a-room-a-bar-and-a-class-how-the-coronavirus-is-spread-through-the-air.html" target="_blank">
-              <h5 class="card-title">A Room, a Bar and a Classroom: How the Coronavirus Is Spread Through the Air</h5>
+            <a href="https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2773576" target="_blank">
+              <h5 class="card-title">Estimated SARS-CoV-2 Seroprevalence in the US as of September 2020</h5>
             </a>
-            <p class="card-text text-left" style="font-style: italic">The risk of contagion is highest in indoor spaces but can be reduced by applying all available measures to combat infection via aerosols. Here is an overview of the likelihood of infection in three everyday scenarios, based on the safety measures used and the length of exposure.</p>
+            <p class="card-text text-left" style="font-style: italic">A cross-sectional study of residual sera from commercial laboratories addresses the question: what proportion of persons across 52 US jurisdictions had detectable antibodies against SARS-CoV-2 from July to September 2020?</p>
           </div>
           <div class="card-footer">
-            <small class="text-muted">El Pais| Mariano Zafra and Javier Salas</small>
+            <small class="text-muted">JAMA Intern. Med. | Kristina L. Bajema, Ryan E. Wiegand, Kendra Cuffe, et al.</small>
           </div>
         </div>
       </div>
@@ -97,6 +97,7 @@ subtitle = ""
           <div class="card-header" style="font-weight: bold; text-align: center">More on the Science of COVID-19</div>
           <div class="card-body">
             <p><a href="https://www.masteryourppe.com/#contact"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" class="mx-auto d-block"></a></p>
+            <ul><a href="https://english.elpais.com/society/2020-10-28/a-room-a-bar-and-a-class-how-the-coronavirus-is-spread-through-the-air.html" target="_blank">A Room, a Bar and a Classroom: How the Coronavirus Is Spread Through the Air</a><small class="text-muted"> | El Pais</small></ul>
             <ul><a href="https://amp.cnn.com/cnn/2020/10/30/health/household-spread-covid-19-wellness/index.html" target="_blank">Household Spread of COVID-19 Is Common and Quick, a New CDC Study Finds</a><small class="text-muted"> | CNN</small></ul>
             <ul><a href="https://ashpublications.org/bloodadvances/article/4/20/4990/463793" target="_blank">Reduced Prevalence of SARS-CoV-2 Infection in ABO Blood Group O</a><small class="text-muted"> | Blood Advances</small></ul>
             <ul><a href="https://elemental.medium.com/a-supercomputer-analyzed-covid-19-and-an-interesting-new-theory-has-emerged-31cb8eba9d63" target="_blank">A Supercomputer Analyzed Covid-19 — and an Interesting New Theory Has Emerged</a><small class="text-muted"> | Medium</small></ul>
@@ -114,17 +115,17 @@ subtitle = ""
       <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-8 my-4">
         <div class="card">
           <div class="card-header lead" style="font-weight: bold; text-align: center">Healthcare & Treatment</div>
-          <a href="https://www.ashp.org/-/media/8CA43C674C6D4335B6A19852843C4052.ashx" target="_blank">
-            <img class="card-img-top" src="https://www.ashp.org/-/media/assets/pharmacy-practice/resource-centers/Coronavirus/images/microsite/hero-1-microsite-883x441.ashx?h=441&w=883&la=en&hash=2EC9850512B045FEDC7DECEF361C9195A2EF8709">
+          <a href="https://www.newscientist.com/article/2261092-do-oxford-astrazeneca-covid-19-vaccine-results-stand-up-to-scrutiny/" target="_blank">
+            <img class="card-img-top" src="https://images.newscientist.com/wp-content/uploads/2020/11/27115821/27-nov_vaccine-briefing.jpg?width=800">
           </a>
           <div class="card-body">
-            <a href="https://www.ashp.org/-/media/8CA43C674C6D4335B6A19852843C4052.ashx" target="_blank">
-              <h5 class="card-title">Assessment of Evidence for COVID-19-Related Treatment</h5>
+            <a href="https://www.newscientist.com/article/2261092-do-oxford-astrazeneca-covid-19-vaccine-results-stand-up-to-scrutiny/" target="_blank">
+              <h5 class="card-title">Do Oxford/AstraZeneca COVID-19 Vaccine Results Stand Up to Scrutiny?</h5>
             </a>
-            <p class="card-text text-left" style="font-style: italic">A continually updated summary table of COVID-19-related treatments as well as their use and efficacy.</p>
+            <p class="card-text text-left" style="font-style: italic">How can we understand the vaccine trials' positive results in light of a methodological error?</p>
           </div>
           <div class="card-footer">
-            <small class="text-muted">Amer. Soc. of Health-System Pharmacists</small>
+            <small class="text-muted">New Scientist | Graham Lawton</small>
           </div>
         </div>
       </div>
@@ -135,6 +136,7 @@ subtitle = ""
           <div class="card-header" style="font-weight: bold; text-align: center">More on Healthcare & Treatment</div>
           <div class="card-body">
             <p><a href="https://www.masteryourppe.com/#contact"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" class="mx-auto d-block"></a></p>
+            <ul><a href="https://www.ashp.org/-/media/8CA43C674C6D4335B6A19852843C4052.ashx" target="_blank">Assessment of Evidence for COVID-19-Related Treatment: Updated Summary of Treatments</a><small class="text-muted"> | Amer. Soc. of Health-System Pharmacists</small></ul>            
             <ul><a href="https://www.sciencemag.org/news/2020/09/provocative-results-boost-hopes-antibody-treatment-covid-19" target="_blank">Regeneron’s ‘Provocative Results’ Boost Hopes of Antibody Treatment for COVID-19</a><small class="text-muted"> | Science</small></ul>
             <ul><a href="https://coronavirus.jhu.edu/covid-19-basics/understanding-covid-19" target="_blank">Understanding the COVID-19 Pandemic (Public Online Course)</a><small class="text-muted"> | Johns Hopkins University</small></ul>
             <ul><a href="https://coronavirus.jhu.edu/news" target="_blank">Curated Updates From the Coronavirus Resource Center</a><small class="text-muted"> | Johns Hopkins University</small></ul>
