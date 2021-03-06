@@ -72,4 +72,7 @@ subtitle = ""
       <p class="text-left">Good face coverings can fail because of a weak seal that lets unfiltered air escape or enter through gaps along the sides. Because infectious virus particles have been observed in smaller airborne droplets (0.001-0.5 mm) that can <b><a href="https://economictimes.indiatimes.com/news/science/coronavirus-can-travel-up-to-8-metres-from-exhalation-linger-in-air-for-hours-mit-scientist-says/articleshow/74928356.cms" target="_blank">remain suspended in air for hours</a></b> and travel long distances, it is important to take a few basic steps to improve your mask seal . . . </p>
     </div>
   </div>
+  <div class="video-container">
+    <iframe src="https://www.youtube.com/embed/Zo_ykD3Zclo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
 </div>
