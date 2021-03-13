@@ -90,7 +90,7 @@ subtitle = ""
       <p class="text-left">By comparison, 2-layer masks lack the innermost filtering layer.  These masks perform poorly at filtering smaller droplets.  Two-layer masks are typically sold at beauty supply stores.</p>
     </div>
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 order-xs-last order-sm-last order-md-first order-lg-first order-xl-first my-4">
-      <img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/tips/facemask-1.jpg?raw=true" alt="Check your mask type">
+      <img class="img-fluid" style="border-radius: 1.7em" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/tips/facemask-1.jpg?raw=true" alt="Check your mask type">
     </div>
   </div>
   <div class="row align-items-center">
@@ -99,7 +99,7 @@ subtitle = ""
       <p class="text-left">Attach a paper clip to each side of a baseball cap then attach the ear loops of a surgical mask to the clips.  This will save you from having to wear the mask loops around your ears.  Or, if you have access to a 3-D printer, download and print <b><a href="https://github.com/dickansj/MasterYourPPE/blob/master/designs/facemask/maskclip/MaskClipv3.stl" target="_blank">this cap clip STL file</a></b> to do the same thing, in style.</p>
     </div>
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 order-xs-last order-sm-last order-md-first order-lg-first order-xl-first my-4">
-      <img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/tips/capclipvid-crunch.png?raw=true" alt="Cap clips will keep your mask loops from straining your ears">
+      <img class="img-fluid" style="border-radius: 1.7em" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/tips/capclipvid-crunch.png?raw=true" alt="Cap clips will keep your mask loops from straining your ears">
     </div>
   </div> 
   <div class="row align-items-center">
@@ -108,7 +108,7 @@ subtitle = ""
       <p class="text-left">Tie a string between the ear loops of your mask.  This will keep the loops from rubbing or digging into the skin behind your ears after hours of use.  You can also use the elastic ear loop string itself for this purpose.  Just rip off an ear loop string from an old mask on its way to being trashed.</p>
     </div>
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 order-xs-last order-sm-last order-md-first order-lg-first order-xl-first my-4">
-      <img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/tips/masktied.jpeg?raw=true" alt="Make your mask time more comfortable">
+      <img class="img-fluid" style="border-radius: 1.7em" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/tips/masktied.jpeg?raw=true" alt="Make your mask time more comfortable">
     </div>
   </div>  
   <div class="row align-items-center">
@@ -128,7 +128,7 @@ subtitle = ""
       <p class="text-left">Setup an easy mask-rotation program:  First, write numbers on the inside edge on four masks.  Wear the first mask on day 1 then hang it to dry out.  Wear the second mask on day 2 and so on.  When day 5 comes, you can wear the first mask again knowing it has dried out completely.</p>
     </div>
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 order-xs-last order-sm-last order-md-first order-lg-first order-xl-first my-4">
-      <img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/tips/reuse-crunch.png?raw=true" alt="Reuse your masks safely">
+      <img class="img-fluid" style="border-radius: 1.7em" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/tips/reuse-crunch.png?raw=true" alt="Reuse your masks safely">
     </div>
   </div>
   <div class="row align-items-center">
@@ -139,7 +139,7 @@ subtitle = ""
       <p class="text-left">A tissue is much better at stopping droplets than your bare hands or even the inside of your elbow.  Trash the tissue and wash your hands with soap and water as soon as possible.</p>
     </div>
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 order-xs-last order-sm-last order-md-first order-lg-first order-xl-first my-4">
-      <img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/tips/sneeze-crunch.png?raw=true" alt="Catch your sneeze">
+      <img class="img-fluid" style="border-radius: 1.7em" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/tips/sneeze-crunch.png?raw=true" alt="Catch your sneeze">
     </div>
   </div>
   <div class="row align-items-center">
@@ -149,7 +149,7 @@ subtitle = ""
       <p class="text-left">By wearing a face shield or goggles with your face mask, you can better guard your eyes from larger droplets, which you will more likely encounter when you are within 6 feet of others. CDC <a href="https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cloth-face-cover-guidance.html" target="_blank"><b>does not recommend</b></a> using a face shield as a mask <b>substitute</b> because shields typically leave large gaps for droplets around your face. If you have a reusable face shield, you can clean it by following CDC guidelines at the bottom of <a href="https://www.cdc.gov/coronavirus/2019-ncov/hcp/ppe-strategy/eye-protection.html#anchor_1605043382236" target="_blank"><b>this page</b></a>.</p>
     </div>
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 order-xs-last order-sm-last order-md-first order-lg-first order-xl-first my-4">
-      <img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/tips/dutton-shield1-crunch.png?raw=true" alt="Add a face shield">
+      <img class="img-fluid" style="border-radius: 1.7em" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/tips/dutton-shield1-crunch.png?raw=true" alt="Add a face shield">
     </div>
   </div> 
  
