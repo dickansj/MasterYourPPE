@@ -68,7 +68,7 @@ subtitle = ""
 
   <div class="row">
     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
-      <p class="text-left">Smaller droplets range in size from about 0.5mm down to 0.001mm and can <b><a href="https://economictimes.indiatimes.com/news/science/coronavirus-can-travel-up-to-8-metres-from-exhalation-linger-in-air-for-hours-mit-scientist-says/articleshow/74928356.cms?from=mdr" target="_blank">remain suspended in air for hours.</a></b> These can also travel long distances on air currents.  In enclosed environments with still air, small droplets can accumulate in the area where they are being generated until the area becomes highly infectious.</p>
+      <p class="text-left">Smaller droplets range in size from about 0.5mm down to 0.001mm and can <b><a href="https://economictimes.indiatimes.com/news/science/coronavirus-can-travel-up-to-8-metres-from-exhalation-linger-in-air-for-hours-mit-scientist-says/articleshow/74928356.cms?from=mdr" target="_blank">remain suspended in air for hours.</a></b> These can also travel long distances on air currents.  In enclosed environments with still air, small droplets can accumulate in the area where they are being generated until the area becomes <b><a href="https://english.elpais.com/society/2020-10-28/a-room-a-bar-and-a-class-how-the-coronavirus-is-spread-through-the-air.html" target="_blank">highly infectious</a></b>.</p>
       <p class="text-left">For these reasons, it is important to wear an <b><a href="https://www.masteryourppe.com/testing/" target="_blank">effective face covering</a></b> and avoid crowds. And, to help lower the risk of Covid-19 transmission further, see these mask-wearing <b><a href="https://www.masteryourppe.com/tips">tips and tricks</a></b>.</p>
     </div>
   </div>
