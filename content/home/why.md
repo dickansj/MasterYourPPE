@@ -66,7 +66,7 @@ subtitle = ""
     </div>
     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-3">
       <img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/home/MaskFrameStef24-crunch.png?raw=true" alt="A face mask and mask frame are simple, effective PPE">
-      <p class="text-center"><small>Want to make your own mask frame?</small><br><b><a href="https://www.youtube.com/watch?v=kpPfyq7r8vA" target="_blank">It's easy, and here's how.</a></b></p>
+      <p class="text-center"><small><em>Want to make your own mask frame?</em></small><br><b><a href="https://www.youtube.com/watch?v=kpPfyq7r8vA" target="_blank">It's easy, and here's how.</a></b></p>
     </div>
     <div class="col-xs-12 col-sm-12 col-md-5 col-lg-5 col-xl-5">
       <h3>OK, but I'm ready to do more.</h3>
