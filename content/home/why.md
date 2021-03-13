@@ -56,21 +56,22 @@ subtitle = ""
 <div class="container-fluid">
   <div class="row featurette">
     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 section-heading">
-      <h1><b>Hey, wear your PPE!</b></h1>
+      <h1><b>Master your PPE!</b></h1>
     </div>
   </div> 
   <div class="row align-items-center my-4">
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
-      <h3>Why?</h3>
-      <p class="text-left">Because we all have to do our part to protect each other. <b><a href="https://www.cdc.gov/coronavirus/2019-ncov/index.html" target="_blank">Covid-19</a></b> is still here and it’s still dangerous to you and to those you care about. And because we all want Covid-19 to go away so we can get back to everything we love to do.</p>
+      <h3>I have my mask . . . now what?</h3>
+      <p class="text-left">You know that <b><a href="https://www.cdc.gov/coronavirus/2019-ncov/index.html" target="_blank">COVID-19</a></b> is <b><a href="https://covid19.who.int/" target="_blank">still here</a></b>, and you're doing your part to protect yourself and others. Since infections frequently occur when people <b><a href="https://www.nytimes.com/2020/08/11/health/coronavirus-aerosols-indoors.html" target="_blank">breathe in</a></b> contaminated droplets, we need to social distance and correctly wear good face coverings in order to overcome the virus.</p>
     </div>
     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-3">
       <img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/home/MaskFrameStef24-crunch.png?raw=true" alt="A face mask and mask frame are simple, effective PPE">
       <p class="small text-center">Want to make your own mask frame?<br><b><a href="https://www.youtube.com/watch?v=kpPfyq7r8vA" target="_blank">It's easy, and here's how.</a></b></p>
     </div>
     <div class="col-xs-12 col-sm-12 col-md-5 col-lg-5 col-xl-5">
-      <h3>Wait, how serious is this?</h3>
-      <p class="text-left">Going by <b><a href="https://www.businessinsider.com/coronavirus-contagious-r-naught-average-patient-spread-2020-3" target="_blank">the numbers</a></b>, Covid-19 is roughly two times more contagious than the flu but with a mortality rate that is 10 times higher. It is very real and it poses a serious risk for those with a weakened immune or respiratory system or with other preexisting conditions--and this could be anyone!</p>
+      <h3>OK, but I'm ready to do more.</h3>
+      <p class="text-left">Here you will find <b><a href="https://www.masteryourppe.com/tips/" target="_blank">tips</a></b> and resources to master your PPE by enhancing its effective filtration and practicality.</p>
+      <p class="text-left">Good face coverings can fail because of a weak seal that lets unfiltered air (and airborne droplets) escape or enter through gaps along the sides. By using a simple mask frame like the one pictured here, you can effectively reduce the chance of inhaling infected droplets or spreading infectious particles to others. </p>
     </div>
   </div> 
 
