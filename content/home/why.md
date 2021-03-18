@@ -60,8 +60,12 @@ subtitle = ""
     </div>
   </div> 
   <div class="row align-items-center" style="justify-content-around">
-    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
+    <div class="col-xs-5 col-sm-5 col-md-5 col-lg-5 col-xl-5">
+    </div>    
+    <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2 col-xl-2">
       <i class="fab fa-instagram fa-lg"></i><i class="fab fa-linkedin-in fa-lg"></i>
+    </div>
+    <div class="col-xs-5 col-sm-5 col-md-5 col-lg-5 col-xl-5">
     </div>
   </div>
   <div class="row align-items-center my-4">
