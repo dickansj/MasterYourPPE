@@ -59,8 +59,8 @@ subtitle = ""
       <h1><b>Master your PPE!</b></h1>
     </div>
   </div> 
-  <div class="row align-items-center" style="justify-content-between">
-    <i class="fab fa-instagram fa-3x"></i><i class="fab fa-linkedin-in fa-3x"></i>
+  <div class="row align-items-center" style="justify-content-around">
+    <i class="fab fa-instagram fa-2x"></i><i class="fab fa-linkedin-in fa-2x"></i>
   </div>
   <div class="row align-items-center my-4">
     <div class="col-xs-12 col-sm-12 col-md-6 col-lg-4 col-xl-4">
