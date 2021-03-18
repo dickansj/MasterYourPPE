@@ -62,8 +62,8 @@ subtitle = ""
   <div class="row align-items-center" style="justify-content: space-around">
     <div class="col-xs-5 col-sm-5 col-md-5 col-lg-5 col-xl-5">
     </div>    
-    <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2 col-xl-2" style="justify-content: space-around">
-      <i class="fab fa-instagram fa-lg mx-auto d-block"></i><i class="fab fa-linkedin-in fa-lg mx-auto d-block"></i>
+    <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2 col-xl-2 mx-auto d-block">
+      <i class="fab fa-instagram fa-lg"></i><i class="fab fa-linkedin-in fa-lg"></i>
     </div>
     <div class="col-xs-5 col-sm-5 col-md-5 col-lg-5 col-xl-5">
     </div>
