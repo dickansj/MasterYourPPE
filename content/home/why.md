@@ -60,7 +60,9 @@ subtitle = ""
     </div>
   </div> 
   <div class="row align-items-center" style="justify-content-around">
-    <i class="fab fa-instagram fa-2x"></i><i class="fab fa-linkedin-in fa-2x"></i>
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
+      <i class="fab fa-instagram fa-lg"></i><i class="fab fa-linkedin-in fa-lg"></i>
+    </div>
   </div>
   <div class="row align-items-center my-4">
     <div class="col-xs-12 col-sm-12 col-md-6 col-lg-4 col-xl-4">
