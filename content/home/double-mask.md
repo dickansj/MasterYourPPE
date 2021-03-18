@@ -59,7 +59,7 @@ subtitle = ""
       <h3>What about "double-masking"?</h3>
       <p class="text-left">CDC recently recommended several <b><a href="https://www.cdc.gov/mmwr/volumes/70/wr/mm7007e1.htm?s_cid=mm7007e1_w" target="_blank">mask modifications</a></b> to increase fit, including the use of a mask fitter (frame) or wearing a second mask over a procedure mask.</p>
     </div>
-    <div class="col-xs-0 col-sm-0 col-md-0 col-lg-2 col-xl-2">
+    <div class="col-xs-0 col-sm-0 col-md-0 col-lg-2 col-xl-2 mx-0 px-0">
     </div>    
     <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
     	<img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/home/cdcmaskguide-crunch.png?raw=true" alt="CDC mask fit techniques">
@@ -69,7 +69,7 @@ subtitle = ""
     <div class="col-xs-12 col-sm-12 col-md-6 col-lg-4 col-xl-4">
       <p class="text-left">Watch how we tested our simple mask frame against double-masking to see which approach better prevents unfiltered air leaks. Our results suggest the frame more effectively filters air--all without making it tough to breathe.</p>
     </div>
-    <div class="col-xs-0 col-sm-0 col-md-0 col-lg-2 col-xl-2">
+    <div class="col-xs-0 col-sm-0 col-md-0 col-lg-2 col-xl-2 mx-0 px-0">
     </div>
     <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 video-container">
     	<iframe src="https://www.youtube.com/embed/Zo_ykD3Zclo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
