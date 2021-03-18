@@ -59,7 +59,9 @@ subtitle = ""
       <h3>What about "double-masking"?</h3>
       <p class="text-left">CDC recently recommended several <b><a href="https://www.cdc.gov/mmwr/volumes/70/wr/mm7007e1.htm?s_cid=mm7007e1_w" target="_blank">mask modifications</a></b> to increase fit, including the use of a mask fitter (frame) or wearing a second mask over a procedure mask.</p>
     </div>
-    <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 col-xl-8">
+    <div class="col-xs-0 col-sm-0 col-md-2 col-lg-2 col-xl-2">
+    </div>    
+    <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
     	<img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/home/cdcmaskguide-crunch.png?raw=true" alt="CDC mask fit techniques">
     </div>
   </div>
