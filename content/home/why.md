@@ -63,7 +63,7 @@ subtitle = ""
     <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4 col-xl-4">
     </div>    
     <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4 col-xl-4" style="text-align: center">
-      <div class="lead"; style="color: #83cabb">&#35;myppe</div>&nbsp;&nbsp;<a href="https://www.instagram.com/masteryourppe/" target="_blank"><i class="fab fa-instagram fa-lg"></i></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/company/master-your-ppe" target="_blank"><i class="fab fa-linkedin-in fa-lg"></i></a>
+      <span class="lead"; style="color: #83cabb">&#35;myppe</span>&nbsp;&nbsp;<a href="https://www.instagram.com/masteryourppe/" target="_blank"><i class="fab fa-instagram fa-lg"></i></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/company/master-your-ppe" target="_blank"><i class="fab fa-linkedin-in fa-lg"></i></a>
     </div>
     <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4 col-xl-4">
     </div>
