@@ -76,17 +76,17 @@ subtitle = ""
       <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-8 my-4">
         <div class="card">
           <div class="card-header lead" style="font-weight: bold; text-align: center">Science of COVID-19</div>
-          <a href="https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2773576" target="_blank">
-            <img class="card-img-top" src="https://cdn.jamanetwork.com/ama/content_public/journal/intemed/0/ioi200107f1_1606151044.56634.png?Expires=2147483647&Signature=YTLOWXHTgdfP7xO4DEK8AgV-5ULY--PqaNlabv1J4vbNNGg-xtgEbAJd7yM54CBXcSyvyARyqDbq3l~mDej1K9TiTpSkL7vKU18REQ7KjCUyYSzPBM64P8dWgC~~~1auuv4IkzqXQK-3cXRbxSbUMjZ7ZWiD8i4Ebof7-izZmNn3KzD9zvBkncbOw9GuuYCKLAItybc8sYFgZAR~kI84LPcXqxBWXiYisjnqogH6MTRqTN~NliGRuBH0dlxHhychBOQiAq0K5EmfU6OQNklEs3AXtZz9HDVoEwNg5fKJROSjBz893aQeZzre4zVW~rH6D2~JfrnwoNHrGdM~A9AJjQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA">
+          <a href="https://www.bmj.com/content/372/bmj.n579" target="_blank">
+            <img class="card-img-top" src="https://www.bmj.com/content/bmj/372/bmj.n579/F2.large.jpg">
           </a>
           <div class="card-body">
-            <a href="https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2773576" target="_blank">
-              <h5 class="card-title">Estimated SARS-CoV-2 Seroprevalence in the US as of September 2020</h5>
+            <a href="https://www.bmj.com/content/372/bmj.n579" target="_blank">
+              <h5 class="card-title">Risk of Mortality in Patients Infected With SARS-CoV-2 Variant of Concern 202012/1: Matched Cohort Study</h5>
             </a>
-            <p class="card-text text-left" style="font-style: italic">A cross-sectional study of residual sera from commercial laboratories addresses the question: what proportion of persons across 52 US jurisdictions had detectable antibodies against SARS-CoV-2 from July to September 2020?</p>
+            <p class="card-text text-left" style="font-style: italic">A matched cohort study of patients infected with SARS-CoV-2 found a significantly increased mortality risk associated with the viral variant VOC-202012/01.</p>
           </div>
           <div class="card-footer">
-            <small class="text-muted">JAMA Intern. Med. | Kristina L. Bajema, Ryan E. Wiegand, Kendra Cuffe, et al.</small>
+            <small class="text-muted">BMJ | Robert Challen, Ellen Brooks-Pollock, Jonathan M. Read, et al.</small>
           </div>
         </div>
       </div>
@@ -97,6 +97,7 @@ subtitle = ""
           <div class="card-header" style="font-weight: bold; text-align: center">More on the Science of COVID-19</div>
           <div class="card-body">
             <p><a href="https://www.masteryourppe.com/#contact"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" class="mx-auto d-block"></a></p>
+            <ul><a href="https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2773576" target="_blank">Estimated SARS-CoV-2 Seroprevalence in the US as of September 2020</a><small class="text-muted"> | JAMA Intern. Med.</small></ul>
             <ul><a href="https://english.elpais.com/society/2020-10-28/a-room-a-bar-and-a-class-how-the-coronavirus-is-spread-through-the-air.html" target="_blank">A Room, a Bar and a Classroom: How the Coronavirus Is Spread Through the Air</a><small class="text-muted"> | El Pais</small></ul>
             <ul><a href="https://amp.cnn.com/cnn/2020/10/30/health/household-spread-covid-19-wellness/index.html" target="_blank">Household Spread of COVID-19 Is Common and Quick, a New CDC Study Finds</a><small class="text-muted"> | CNN</small></ul>
             <ul><a href="https://ashpublications.org/bloodadvances/article/4/20/4990/463793" target="_blank">Reduced Prevalence of SARS-CoV-2 Infection in ABO Blood Group O</a><small class="text-muted"> | Blood Advances</small></ul>
