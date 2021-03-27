@@ -63,10 +63,10 @@ subtitle = ""
       <p class="text-left">We modified the probes into large copper pads that would sit behind the face mask, detecting if water had penetrated through the material to the copper pad test side.</p>
       <p class="text-left">The copper pads were mounted on a PVC surface with holes drilled along the gap. These holes connected to a flexible plenum, provided by a rubber diaphragm. This setup simulated human breath and provided a slow flow of air through the mask during tests.</p>
       <h5>Results</h5>
-      <p class="text-left"><i class="fas fa-times"></i>  <em>Single-ply materials</em>, such as poly blends and cotton, showed immediate penetration to the inside when the top surface was sprayed with water.</p>
-      <p class="text-left"><i class="fas fa-times"></i>  Cotton gave moisture readings even before spraying, due to its hydrophilic nature.</p>
-      <p class="text-left"><i class="fas fa-times"></i>  Masks made from 100% polyester were dry at first but did allow water penetration.</p>
-      <p class="text-left"><i class="fas fa-check"></i>  Various <em>3-ply masks</em>that performed well in our particle filtration tests also resisted water significantly better than single-ply masks. See our data below for detail.</p>
+      <p class="text-left"><i class="fas fa-times" style="color: #ff7600"></i>&nbsp;&nbsp;<em>Single-ply materials</em>, such as poly blends and cotton, showed immediate penetration to the inside when the top surface was sprayed with water.</p>
+      <p class="text-left"><i class="fas fa-times" style="color: #ff7600"></i>&nbsp;&nbsp;Cotton gave moisture readings even before spraying, due to its hydrophilic nature.</p>
+      <p class="text-left"><i class="fas fa-times" style="color: #ff7600"></i>&nbsp;&nbsp;Masks made from 100% polyester were dry at first but did allow water penetration.</p>
+      <p class="text-left"><i class="far fa-check" style="color: #68cd00"></i></i>&nbsp;&nbsp;Various <em>3-ply masks</em>that performed well in our particle filtration tests also resisted water significantly better than single-ply masks. See our data below for detail.</p>
     </div>
   </div>
 </div>
