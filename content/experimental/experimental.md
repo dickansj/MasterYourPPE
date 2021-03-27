@@ -66,7 +66,7 @@ subtitle = ""
       <p class="text-left"><i class="fas fa-times" style="color: #ff7600"></i>&nbsp;&nbsp;<em>Single-ply materials</em>, such as poly blends and cotton, showed immediate penetration to the inside when the top surface was sprayed with water.</p>
       <p class="text-left"><i class="fas fa-times" style="color: #ff7600"></i>&nbsp;&nbsp;Cotton gave moisture readings even before spraying, due to its hydrophilic nature.</p>
       <p class="text-left"><i class="fas fa-times" style="color: #ff7600"></i>&nbsp;&nbsp;Masks made from 100% polyester were dry at first but did allow water penetration.</p>
-      <p class="text-left"><i class="far fa-check" style="color: #68cd00"></i></i>&nbsp;&nbsp;Various <em>3-ply masks</em>that performed well in our particle filtration tests also resisted water significantly better than single-ply masks. See our data below for detail.</p>
+      <p class="text-left"><i class="fas fa-check" style="color: #68cd00"></i></i>&nbsp;&nbsp;Various <em>3-ply masks</em> that performed well in our particle filtration tests also resisted water significantly better than single-ply masks. See our data below for detail.</p>
     </div>
   </div>
 </div>
