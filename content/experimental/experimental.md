@@ -66,7 +66,7 @@ subtitle = ""
       <p class="text-left">We measured the water penetration of 71 mask materials with a moisture meter typically used to measure water content in wood or plaster board. When the meter's two probes are inserted into a material, any water present will conduct electricity between the probes, and the meter measures this conductivity.</p>
     </div>
     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4 col-xl-6 flex-grow-1">
-      <img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/testing/moisture-meter-crunch.png?raw=true" alt="moisture meter">
+      <img class="img-responsive" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/testing/moisture-meter-crunch.png?raw=true" alt="moisture meter">
     </div>
   </div>
   <div class="row align-items-center mb-4 justify-content-between">
@@ -74,10 +74,10 @@ subtitle = ""
       <p class="text-left">We modified the probes into large copper pads that would sit behind the face mask, detecting if water had penetrated through the material to the copper pad test side.</p>
     </div>
     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-5 my-4 flex-xs-fill flex-sm-fill flex-md-fill">
-      <img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/testing/meter-pads-crunch.png?raw=true" alt="moisture meter pads">
+      <img class="img-responsive" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/testing/meter-pads-crunch.png?raw=true" alt="moisture meter pads">
     </div>
     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4 col-xl-3 my-4 flex-xs-fill flex-sm-fill flex-md-fill">
-      <img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/testing/moisture-setup-crunch.png?raw=true" alt="moisture meter setup">
+      <img class="img-responsive" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/testing/moisture-setup-crunch.png?raw=true" alt="moisture meter setup">
     </div>
     </div>
   </div>
