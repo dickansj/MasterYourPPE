@@ -65,15 +65,15 @@ subtitle = ""
       <h5>Setup</h5>
       <p class="text-left">We measured the water penetration of 71 mask materials with a moisture meter typically used to measure water content in wood or plaster board. When the meter's two probes are inserted into a material, any water present will conduct electricity between the probes, and the meter measures this conductivity.</p>
     </div>
-    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4 col-xl-6">
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4 col-xl-6 flex-grow-1">
       <img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/testing/moisture-meter-crunch.png?raw=true" alt="moisture meter">
     </div>
   </div>
   <div class="row align-items-center mb-4">
-    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-4">
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-4">
       <p class="text-left">We modified the probes into large copper pads that would sit behind the face mask, detecting if water had penetrated through the material to the copper pad test side.</p>
     </div>
-    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-8 justify-content-between">
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-8 justify-content-between">
       <div class="d-inline-flex align-items-center justify-content-between">
       <img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/testing/meter-pads-crunch.png?raw=true" alt="moisture meter pads"><img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/testing/moisture-setup-crunch.png?raw=true" alt="moisture meter setup">
       </div>
