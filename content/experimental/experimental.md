@@ -72,7 +72,7 @@ subtitle = ""
   <div class="row align-items-center mb-4">
     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-6">
       <p class="text-left">We modified the probes into large copper pads that would sit behind the face mask, detecting if water had penetrated through the material to the copper pad test side.</p>
-    <div>
+    </div>
     <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 col-xl-4">
       <img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/testing/meter-pads-crunch.png?raw=true" alt="moisture meter pads">
     </div>
