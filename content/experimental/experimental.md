@@ -58,14 +58,14 @@ subtitle = ""
     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
       <h3>How well do different masks block water droplets?</h3>
       <p class="text-left">Since exposure to contaminated respiratory droplets is a common means of viral infection (and the <b><a href="https://www.cdc.gov/coronavirus/2019-ncov/science/science-briefs/scientific-brief-sars-cov-2.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fmore%2Fscientific-brief-sars-cov-2.html" target="_blank">primary mode of SARS-CoV-2 infection</a></b>), we tested how different masks block water droplets, simulating droplets from a cough or sneeze. When water droplets land on a solid surface, they can either ball up without penetrating the material (which is <em>hydrophobic</em>, or "water-hating"), or they can wet the surface and soak through the <em>hydrophilic</em> ("water-loving") material. So we wanted to find out what kind of mask would best resist moisture penetration.</p>
-      <h5>Setup</h5>
     </div>
   </div>
   <div class="row">
-    <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 col-xl-8">      
+    <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 col-xl-6">      
+      <h5>Setup</h5>
       <p class="text-left">We measured the water penetration of 71 mask materials with a moisture meter typically used to measure water content in wood or plaster board. When the meter's two probes are inserted into a material, any water present will conduct electricity between the probes, and the meter measures this conductivity.</p>
     </div>
-    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
+    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-6">
       <img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/testing/moisture-meter-crunch.png?raw=true" alt="moisture meter">
     </div>
   </div>
