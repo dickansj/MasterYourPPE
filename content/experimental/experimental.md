@@ -69,14 +69,12 @@ subtitle = ""
       <img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/testing/moisture-meter-crunch.png?raw=true" alt="moisture meter">
     </div>
   </div>
-  <div class="row align-items-stretch mb-4">
-    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-4">
+  <div class="row align-items-center mb-4">
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-4">
       <p class="text-left">We modified the probes into large copper pads that would sit behind the face mask, detecting if water had penetrated through the material to the copper pad test side.</p>
     </div>
-    <div class="col-xs-12 col-sm-12 col-md-7 col-lg-7 col-xl-5">
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-8 justify-content-between">
       <img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/testing/meter-pads-crunch.png?raw=true" alt="moisture meter pads">
-    </div>
-    <div class="col-xs-12 col-sm-12 col-md-5 col-lg-5 col-xl-3">
       <img class="img-fluid" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/testing/moisture-setup-crunch.png?raw=true" alt="moisture meter setup">
     </div>
   </div>
