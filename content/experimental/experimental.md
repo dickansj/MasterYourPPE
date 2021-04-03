@@ -59,13 +59,13 @@ subtitle = ""
 
   <div class="row align-items-center px-0" style="justify-content: space-evenly; min-width: 0; min-height: 0; overflow:hidden; flex-wrap:nowrap">
     <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-4 px-0" style="min-width: 0; min-height: 0">
-      <button class="btn btn-primary" type="button" style="min-width: 0" data-toggle="collapse" data-target="#moisture" role="button" aria-expanded="false" aria-controls="moisture" onclick="location.href = '#moisture';">
-        <span style="box-shadow: 0.4em 0.5em 0.75em -0.3em; border-radius: 1.7em">TEST BUTTON</span>
+      <button class="btn btn-primary" type="button" style="min-width: 0; box-shadow: 0.4em 0.5em 0.75em -0.3em; border-radius: 1.7em" data-toggle="collapse" data-target="#moisture" role="button" aria-expanded="false" aria-controls="moisture" onclick="location.href = '#moisture';">
+        <span style="color: white; font-weight: bold">Moisture Penetration</span>
       </button>
     </div>
     <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-4 px-0" style="min-width: 0; min-height: 0">
       <button class="btn btn-primary" type="button" style="min-width: 0" data-toggle="collapse" data-target="#particle" role="button" aria-expanded="false" aria-controls="particle" onclick="location.href = '#particle';">
-        TESTER
+        <b>Particle Filtration</b>
       </button>
     </div>
   </div>
@@ -98,7 +98,6 @@ subtitle = ""
       </div>
       <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4 col-xl-3 my-4 flex-xs-fill flex-sm-fill flex-md-fill">
         <img class="img-responsive" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/testing/moisture-setup-crunch.png?raw=true" alt="moisture meter setup">
-      </div>
       </div>
     </div>
     <div class="row mb-4">
