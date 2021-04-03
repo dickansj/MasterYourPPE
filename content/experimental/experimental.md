@@ -69,10 +69,8 @@ subtitle = ""
       </button>
     </div>
   </div>
-  
-  
+   
   <p><a id="moisture"></a></p>
-
   <div class="collapse show" id="moisture">
     <div class="row my-4">
       <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
