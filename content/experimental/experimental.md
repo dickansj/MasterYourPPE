@@ -65,7 +65,7 @@ subtitle = ""
     </div>
     <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-4 text-center">
       <button class="btn btn-primary" type="button" style="min-width: 0" data-toggle="collapse" data-target="#particle" role="button" aria-expanded="false" aria-controls="particle" onclick="location.href = '#moisture';">
-        <i class="fas fa-shield-virus"></i>&nbsp;&nbsp;<b>Particle Filtration</b>
+        <i class="fas fa-shield-alt"></i>&nbsp;&nbsp;<b>Particle Filtration</b>
       </button>
     </div>
   </div>
