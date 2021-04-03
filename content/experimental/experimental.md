@@ -60,12 +60,12 @@ subtitle = ""
   <div class="row justify-content-center">
     <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-4 text-center">
       <button class="btn btn-primary" type="button" style="min-width: 0" data-toggle="collapse" data-target="#moisture" role="button" aria-expanded="false" aria-controls="moisture" onclick="location.href = '#moisture';">
-        <b>Moisture Penetration</b>
+        <i class="fas fa-tint"></i>&nbsp;&nbsp;<b>Moisture Penetration</b>
       </button>
     </div>
     <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-4 text-center">
       <button class="btn btn-primary" type="button" style="min-width: 0" data-toggle="collapse" data-target="#particle" role="button" aria-expanded="false" aria-controls="particle" onclick="location.href = '#moisture';">
-        <b>Particle Filtration</b>
+        <i class="fas fa-head-side-cough"></i>&nbsp;&nbsp;<b>Particle Filtration</b>
       </button>
     </div>
   </div>
