@@ -57,7 +57,7 @@ subtitle = ""
 
 <div class="container" style="min-width: 0; min-height: 0">
 
-  <div class="row align-items-center" style="justify-content: space-evenly">
+  <div class="row" style="justify-content: center">
     <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-4" style="min-width: 0; min-height: 0">
       <button class="btn btn-primary" type="button" style="min-width: 0" data-toggle="collapse" data-target="#moisture" role="button" aria-expanded="false" aria-controls="moisture" onclick="location.href = '#moisture';">
         <b>Moisture Penetration</b>
