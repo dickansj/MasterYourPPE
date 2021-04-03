@@ -116,7 +116,8 @@ subtitle = ""
     </div>
   </div>
   
-  <div class="collapse" id="particle">  
+  <div class="collapse" id="particle">
+  <p><a id="particle"></a></p>  
     <div class="row">
       <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
         <h3>Filtering efficiency of common masks and materials:</h3>
