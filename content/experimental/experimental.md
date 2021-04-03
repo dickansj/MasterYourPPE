@@ -59,8 +59,8 @@ subtitle = ""
 
   <div class="row align-items-center px-0" style="justify-content: space-evenly; min-width: 0; min-height: 0; overflow:hidden; flex-wrap:nowrap">
     <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-4 px-0" style="min-width: 0; min-height: 0">
-      <button class="btn btn-primary" type="button" style="min-width: 0; box-shadow: 0.4em 0.5em 0.75em -0.3em; border-radius: 1.7em" data-toggle="collapse" data-target="#moisture" role="button" aria-expanded="false" aria-controls="moisture" onclick="location.href = '#moisture';">
-        <span style="color: white; font-weight: bold">Moisture Penetration</span>
+      <button class="btn btn-primary" type="button" style="min-width: 0; box-shadow: 0.4em 0.5em 0.75em -0.3em" data-toggle="collapse" data-target="#moisture" role="button" aria-expanded="false" aria-controls="moisture" onclick="location.href = '#moisture';">
+        <b>Moisture Penetration</b>
       </button>
     </div>
     <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-4 px-0" style="min-width: 0; min-height: 0">
