@@ -65,7 +65,7 @@ subtitle = ""
     </div>
     <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-4 text-center">
       <button class="btn btn-primary" type="button" style="min-width: 0" data-toggle="collapse" data-target="#particle" role="button" aria-expanded="false" aria-controls="particle" onclick="location.href = '#moisture';">
-        <i class="fas fa-head-side-cough"></i>&nbsp;&nbsp;<b>Particle Filtration</b>
+        <i class="fas fa-head-side-cough-slash"></i>&nbsp;&nbsp;<b>Particle Filtration</b>
       </button>
     </div>
   </div>
@@ -83,7 +83,7 @@ subtitle = ""
     <div class="row align-items-center mb-4 justify-content-between">
       <div class="col-xs-12 col-sm-12 col-md-12 col-lg-8 col-xl-6">      
         <h5>Setup</h5>
-        <p class="text-left"><i class="fas fa-head-side-cough"></i>We measured the water penetration of 71 mask materials with a moisture meter typically used to measure water content in wood or plaster board. When the meter's two probes are inserted into a material, any water present will conduct electricity between the probes, and the meter measures this conductivity.</p>
+        <p class="text-left">We measured the water penetration of 71 mask materials with a moisture meter typically used to measure water content in wood or plaster board. When the meter's two probes are inserted into a material, any water present will conduct electricity between the probes, and the meter measures this conductivity.</p>
       </div>
       <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4 col-xl-6 flex-grow-1">
         <img class="img-responsive" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/testing/moisture-meter-crunch.png?raw=true" alt="moisture meter">
