@@ -78,6 +78,15 @@ subtitle = ""
         <p class="text-left">Since exposure to contaminated respiratory droplets is a common means of viral infection (and the <b><a href="https://www.cdc.gov/coronavirus/2019-ncov/science/science-briefs/scientific-brief-sars-cov-2.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fmore%2Fscientific-brief-sars-cov-2.html" target="_blank">primary mode of SARS-CoV-2 infection</a></b>), we tested how different masks block water droplets, simulating droplets from a cough or sneeze. When water droplets land on a solid surface, they can either ball up without penetrating the material (which is <em>hydrophobic</em>, or "water-hating"), or they can wet the surface and soak through the <em>hydrophilic</em> ("water-loving") material. So we wanted to find out what kind of mask would best resist moisture penetration.</p>
       </div>
     </div>
+    <div class="row align-items-center mb-4">
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
+        <h5>Results</h5>
+        <p class="text-left"><i class="fas fa-times" style="color: #ff7600"></i>&nbsp;&nbsp;<em>Single-ply materials</em>, such as poly blends and cotton, showed immediate penetration to the inside when the top surface was sprayed with water.</p>
+        <p class="text-left"><i class="fas fa-times" style="color: #ff7600"></i>&nbsp;&nbsp;Cotton gave moisture readings even before spraying, due to its hydrophilic nature.</p>
+        <p class="text-left"><i class="fas fa-times" style="color: #ff7600"></i>&nbsp;&nbsp;Masks made from 100% polyester were dry at first but did allow water penetration.</p>
+        <p class="text-left"><i class="fas fa-check" style="color: #68cd00"></i></i>&nbsp;&nbsp;Various <em>3-ply masks</em> that performed well in our particle filtration tests also resisted water significantly better than single-ply masks. See our data below for detail.</p>
+      </div>
+    </div>
     <div class="row align-items-center mb-4 justify-content-between">
       <div class="col-xs-12 col-sm-12 col-md-12 col-lg-8 col-xl-6">      
         <h5>Setup</h5>
@@ -101,15 +110,6 @@ subtitle = ""
     <div class="row mb-4">
       <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
         <p class="text-left">The copper pads were mounted on a PVC surface with holes drilled along the gap. These holes connected to a flexible plenum, provided by a rubber diaphragm. This setup simulated human breath and provided a slow flow of air through the mask during tests.</p>
-      </div>
-    </div>
-    <div class="row align-items-center mb-4">
-      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
-        <h5>Results</h5>
-        <p class="text-left"><i class="fas fa-times" style="color: #ff7600"></i>&nbsp;&nbsp;<em>Single-ply materials</em>, such as poly blends and cotton, showed immediate penetration to the inside when the top surface was sprayed with water.</p>
-        <p class="text-left"><i class="fas fa-times" style="color: #ff7600"></i>&nbsp;&nbsp;Cotton gave moisture readings even before spraying, due to its hydrophilic nature.</p>
-        <p class="text-left"><i class="fas fa-times" style="color: #ff7600"></i>&nbsp;&nbsp;Masks made from 100% polyester were dry at first but did allow water penetration.</p>
-        <p class="text-left"><i class="fas fa-check" style="color: #68cd00"></i></i>&nbsp;&nbsp;Various <em>3-ply masks</em> that performed well in our particle filtration tests also resisted water significantly better than single-ply masks. See our data below for detail.</p>
       </div>
     </div>
   </div>
