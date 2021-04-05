@@ -117,8 +117,11 @@ subtitle = ""
   <div class="collapse" id="particle">
     <div class="row">
       <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
-        <h3>Filtering efficiency of common masks and materials:</h3>
-        <p> This plot compares the actual filtering efficiency of masks and materials for droplet sizes of 1um and 0.3um.  Note that 0.3um is the size used in industry for particle filtering efficiency rating. </p>
+        <h3>How well do common masks filter particles?</h3>
+        <p class="text-left">In addition to moisture penetration, we measured in our sample masks a second indicator of their efficacy: the percentage of small particles blocked by each mask material. So which mask types best filter particles in the size range of airborne droplets?</p>
+        <br>
+        <h5>Results</h5>
+        <p> This plot compares the actual filtering efficiency of masks and materials for particle sizes of 1um and 0.3um.  Note that 0.3um is the size used in industry for particle filtering efficiency rating. </p>
       </div>
     </div>
     <div class="row align-items-center mt-4">
@@ -133,7 +136,7 @@ subtitle = ""
     </div>
     <div class="row align-items-left">
       <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
-        <h3>How we tested the masks and materials:</h3>
+        <h5>Setup</h5>
       </div>
     </div>
     <div class="row align-items-center justify-content-around">
