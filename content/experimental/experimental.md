@@ -121,6 +121,9 @@ subtitle = ""
         <p class="text-left">In addition to moisture penetration, we measured in our sample masks a second indicator of their efficacy: the percentage of small particles blocked by each mask material. So which mask types best filter particles in the size range of airborne droplets?</p>
         <br>
         <h5>Results</h5>
+        <p class="text-left"><i class="fas fa-times" style="color: #ff7600"></i>&nbsp;&nbsp;<em>Household fabrics</em> and masks made from <em>polyester or cotton</em> offered relatively weak filtration, though they likely still provide some benefit.</p>
+        <p class="text-left"><i class="fas fa-check" style="color: #68cd00"></i></i>&nbsp;&nbsp;Masks with <em>3 layers</em> (including common surgical masks) showed filtration nearly identical to medical N95 masks, blocking more than 95% of particles in many cases.</p>
+        <br>
         <p> This plot compares the actual filtering efficiency of masks and materials for particle sizes of 1um and 0.3um.  Note that 0.3um is the size used in industry for particle filtering efficiency rating. </p>
       </div>
     </div>
