@@ -87,6 +87,11 @@ subtitle = ""
         <p class="text-left"><i class="fas fa-check" style="color: #68cd00"></i></i>&nbsp;&nbsp;Various <em>3-ply masks</em> that performed well in our particle filtration tests also resisted water significantly better than single-ply masks. See our data below for detail.</p>
       </div>
     </div>
+    <div class="row align-items-center mx-4">
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 mx-auto d-block float-xs-none">
+         <img class="img-responsive" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/testing/moisture-plot-crunch.png?raw=true" alt="Comparison of Moisture Penetration in Masks">
+      </div>
+    </div>
     <div class="row align-items-center mb-4 justify-content-between">
       <div class="col-xs-12 col-sm-12 col-md-12 col-lg-8 col-xl-6">      
         <h5>Setup</h5>
@@ -144,7 +149,7 @@ subtitle = ""
     </div>
     <div class="row align-items-center justify-content-around">
       <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 col-xl-8">
-        <p class="text-left">We used a Fluke 985 Particle Counter to measure the filtration efficiency of several commercially available masks and respirators and that of other commonly available materials.  The testing apparatus consisted of a 4-inch PVC pipe cap with a 1/2-inch access hole drilled on the side where the particle counter's conical test port was inserted.  Above the access hole, we mounted an adjustable hose clamp to provide a tight seal between the cap and the filter material being tested.  Each material was tested for two minutes and the data was normalized against unfiltered measurements of the room air.  Subsequent testing of the same filter material yielded slightly different counts; however the variation was usually below 0.5% of the initial values.</p>
+        <p class="text-left">We used a Fluke 985 Particle Counter to measure the filtration efficiency of commercially available masks and respirators and that of other commonly available materials.  The testing apparatus consisted of a 4-inch PVC pipe cap with a 1/2-inch access hole drilled on the side where the particle counter's conical test port was inserted.  Above the access hole, we mounted an adjustable hose clamp to provide a tight seal between the cap and the filter material being tested.  Each material was tested for two minutes and the data was normalized against unfiltered measurements of the room air.  Subsequent testing of the same filter material yielded slightly different counts; however the variation was usually below 0.5% of the initial values.</p>
       </div>
       <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 order-xs-last order-sm-last order-md-first order-lg-first order-xl-first my-4" style="max-width:288px;">
         <img class="img-fluid" src="https://i.imgur.com/zRnrI99.png" alt="testing1">
