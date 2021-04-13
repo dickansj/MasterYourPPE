@@ -87,8 +87,8 @@ subtitle = ""
         <p class="text-left"><i class="fas fa-check" style="color: #68cd00"></i></i>&nbsp;&nbsp;Various <em>3-ply masks</em> that performed well in our particle filtration tests also resisted water significantly better than single-ply masks. See our data below for detail.</p>
       </div>
     </div>
-    <div class="row align-items-center mx-4">
-      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-5 col-xl-5 mx-auto d-block float-xs-none">
+    <div class="row align-items-center mx-4 mb-4">
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 mx-auto d-block float-xs-none">
          <img class="img-responsive" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/testing/moisture-spray-crunch.png?raw=true" alt="Comparison of Moisture Penetration in Masks: With Water Spray">
       </div>
       <div class="col-xs-12 col-sm-12 col-md-12 col-lg-5 col-xl-5 mx-auto d-block float-xs-none">
@@ -98,7 +98,7 @@ subtitle = ""
     <div class="row align-items-center mb-4 justify-content-between">
       <div class="col-xs-12 col-sm-12 col-md-12 col-lg-8 col-xl-6">      
         <h5>Setup</h5>
-        <p class="text-left">We measured the water penetration of 71 mask materials with a moisture meter typically used to measure water content in wood or plaster board. When the meter's two probes are inserted into a material, any water present will conduct electricity between the probes, and the meter measures this conductivity.</p>
+        <p class="text-left">We measured the water penetration of various mask materials with a moisture meter typically used to measure water content in wood or plaster board. When the meter's two probes are inserted into a material, any water present will conduct electricity between the probes, and the meter measures this conductivity.</p>
       </div>
       <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4 col-xl-6 flex-grow-1">
         <img class="img-responsive" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/testing/moisture-meter-crunch.png?raw=true" alt="moisture meter">
