@@ -88,8 +88,11 @@ subtitle = ""
       </div>
     </div>
     <div class="row align-items-center mx-4">
-      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 mx-auto d-block float-xs-none">
-         <img class="img-responsive" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/testing/moisture-plot-crunch.png?raw=true" alt="Comparison of Moisture Penetration in Masks">
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-5 col-xl-5 mx-auto d-block float-xs-none">
+         <img class="img-responsive" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/testing/moisture-spray-crunch.png?raw=true" alt="Comparison of Moisture Penetration in Masks: With Water Spray">
+      </div>
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-5 col-xl-5 mx-auto d-block float-xs-none">
+         <img class="img-responsive" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/testing/moisture-nospray-crunch.png?raw=true" alt="Comparison of Moisture Penetration in Masks: Without Water Spray">
       </div>
     </div>
     <div class="row align-items-center mb-4 justify-content-between">
