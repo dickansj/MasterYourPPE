@@ -122,13 +122,13 @@ subtitle = ""
       </div>
     </div>
     <div class="row align-items-center">
-      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 mx-auto d-block">
+      <div class="col-xs-12 col-sm-12 col-md-11 col-lg-4 col-xl-4 mx-auto d-block mb-4">
         <img class="img-responsive" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/testing/masknospray.jpg?raw=true" alt="Mask setup no spray">        
       </div>
-      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 mx-auto d-block">
+      <div class="col-xs-12 col-sm-12 col-md-11 col-lg-4 col-xl-4 mx-auto d-block mb-4">
         <img class="img-responsive" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/testing/maskspray0.jpg?raw=true" alt="Mask setup spray 0 min">
       </div>
-      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 mx-auto d-block">
+      <div class="col-xs-12 col-sm-12 col-md-11 col-lg-4 col-xl-4 mx-auto d-block mb-4">
         <img class="img-responsive" src="https://github.com/dickansj/MasterYourPPE/blob/master/assets/images/testing/maskspray1.jpg?raw=true" alt="Mask setup spray 1 min">
       </div>
     </div>
