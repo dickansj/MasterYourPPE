@@ -118,6 +118,7 @@ subtitle = ""
     <div class="row mb-4">
       <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
         <p class="text-left">The copper pads were mounted on a PVC surface with holes drilled along the gap. These holes connected to a flexible plenum, provided by a rubber diaphragm. This setup simulated human breath and provided a slow flow of air through the mask during tests.</p>
+        <p class="text-left">Moisture readings were taken under variable conditions, including with and without the application of skin contact and water spray.</p>
       </div>
     </div>
   </div>
