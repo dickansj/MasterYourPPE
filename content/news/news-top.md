@@ -116,17 +116,17 @@ subtitle = ""
       <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-8 my-4">
         <div class="card">
           <div class="card-header lead" style="font-weight: bold; text-align: center">Healthcare & Treatment</div>
-          <a href="https://www.newscientist.com/article/2261092-do-oxford-astrazeneca-covid-19-vaccine-results-stand-up-to-scrutiny/" target="_blank">
-            <img class="card-img-top" src="https://images.newscientist.com/wp-content/uploads/2020/11/27115821/27-nov_vaccine-briefing.jpg?width=800">
+          <a href="https://www.nature.com/articles/d41586-021-00722-8" target="_blank">
+            <img class="card-img-top" src="https://media.nature.com/lw800/magazine-assets/d41586-021-00722-8/d41586-021-00722-8_18979356.jpg">
           </a>
           <div class="card-body">
-            <a href="https://www.newscientist.com/article/2261092-do-oxford-astrazeneca-covid-19-vaccine-results-stand-up-to-scrutiny/" target="_blank">
-              <h5 class="card-title">Do Oxford/AstraZeneca COVID-19 Vaccine Results Stand Up to Scrutiny?</h5>
+            <a href="https://www.nature.com/articles/d41586-021-00722-8" target="_blank">
+              <h5 class="card-title">Rare COVID Reactions Might Hold Key to Variant-Proof Vaccines</h5>
             </a>
-            <p class="card-text text-left" style="font-style: italic">How can we understand the vaccine trials' positive results in light of a methodological error?</p>
+            <p class="card-text text-left" style="font-style: italic">Some people mount an immune response able to fend off a menagerie of coronavirus variants.</p>
           </div>
           <div class="card-footer">
-            <small class="text-muted">New Scientist | Graham Lawton</small>
+            <small class="text-muted">Nature | Ewen Callaway</small>
           </div>
         </div>
       </div>
@@ -136,6 +136,7 @@ subtitle = ""
         <div class="card">
           <div class="card-header" style="font-weight: bold; text-align: center">More on Healthcare & Treatment</div>
           <div class="card-body">
+            <ul><a href="https://www.newscientist.com/article/2261092-do-oxford-astrazeneca-covid-19-vaccine-results-stand-up-to-scrutiny/" target="_blank">Do Oxford/AstraZeneca COVID-19 Vaccine Results Stand Up to Scrutiny?</a><small class="text-muted"> | New Scientist</small></ul>
             <p><a href="https://www.masteryourppe.com/#contact"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" class="mx-auto d-block"></a></p>
             <ul><a href="https://www.ashp.org/-/media/8CA43C674C6D4335B6A19852843C4052.ashx" target="_blank">Assessment of Evidence for COVID-19-Related Treatment: An Updated Summary of Treatments</a><small class="text-muted"> | Amer. Soc. of Health-System Pharmacists</small></ul>            
             <ul><a href="https://www.sciencemag.org/news/2020/09/provocative-results-boost-hopes-antibody-treatment-covid-19" target="_blank">Regeneron’s ‘Provocative Results’ Boost Hopes of Antibody Treatment for COVID-19</a><small class="text-muted"> | Science</small></ul>
