@@ -136,8 +136,8 @@ subtitle = ""
         <div class="card">
           <div class="card-header" style="font-weight: bold; text-align: center">More on Healthcare & Treatment</div>
           <div class="card-body">
-            <ul><a href="https://www.newscientist.com/article/2261092-do-oxford-astrazeneca-covid-19-vaccine-results-stand-up-to-scrutiny/" target="_blank">Do Oxford/AstraZeneca COVID-19 Vaccine Results Stand Up to Scrutiny?</a><small class="text-muted"> | New Scientist</small></ul>
             <p><a href="https://www.masteryourppe.com/#contact"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" class="mx-auto d-block"></a></p>
+            <ul><a href="https://www.newscientist.com/article/2261092-do-oxford-astrazeneca-covid-19-vaccine-results-stand-up-to-scrutiny/" target="_blank">Do Oxford/AstraZeneca COVID-19 Vaccine Results Stand Up to Scrutiny?</a><small class="text-muted"> | New Scientist</small></ul>
             <ul><a href="https://www.ashp.org/-/media/8CA43C674C6D4335B6A19852843C4052.ashx" target="_blank">Assessment of Evidence for COVID-19-Related Treatment: An Updated Summary of Treatments</a><small class="text-muted"> | Amer. Soc. of Health-System Pharmacists</small></ul>            
             <ul><a href="https://www.sciencemag.org/news/2020/09/provocative-results-boost-hopes-antibody-treatment-covid-19" target="_blank">Regeneron’s ‘Provocative Results’ Boost Hopes of Antibody Treatment for COVID-19</a><small class="text-muted"> | Science</small></ul>
             <ul><a href="https://coronavirus.jhu.edu/covid-19-basics/understanding-covid-19" target="_blank">Understanding the COVID-19 Pandemic (Public Online Course)</a><small class="text-muted"> | Johns Hopkins University</small></ul>
