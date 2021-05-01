@@ -60,12 +60,12 @@ subtitle = ""
     </div>
   </div> 
   <div class="row align-items-center">
-    <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4 col-xl-4">
+    <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 col-xl-3">
     </div>    
-    <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4 col-xl-4" style="text-align: center">
+    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 col-xl-6" style="text-align: center">
       <span class="lead"; style="color: #83cabb">&#35;myppe</span>&nbsp;&nbsp;<a href="https://www.instagram.com/masteryourppe/" target="_blank"><i class="fab fa-instagram fa-lg"></i></a>&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCWnhMrXAAiUKiis0FMS9hzg" target="_blank"><i class="fab fa-youtube"></i></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/company/master-your-ppe" target="_blank"><i class="fab fa-linkedin-in fa-lg"></i></a>
     </div>
-    <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4 col-xl-4">
+    <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 col-xl-3">
     </div>
   </div>
   <div class="row align-items-center my-4">
